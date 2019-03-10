@@ -1,0 +1,82 @@
+                                                        Sunil Kumar PS
+: +91-8951200687
+: 
+
+OBJECTIVE
+
+Intend to build a career with leading corporate of hi-tech environment with committee and dedicated people, which will help me to explore myself fully and realize my potential. Willing to work as a key player in challenging environment.
+EDUCATION
+I hold a Bachelor of Engineering degree in Electronics and Communication Engineering (First Class) from Visvesvaraya Technological University 2008-2011.
+Completed Diploma in Electronics & Communication (First Class) from KVG Polytechnic, Sulia in the year of 2003-2006.
+PRESENT JOB
+Currently working in Access Automation Pvt Ltd as a Technical sales, Marketing and field application Engineer from April-2015 to till date, handling the CRM, On site support for DAQ, ATE installation and integration.
+Company Overview: Access automation Pvt Ltd is Test Automation solution provider and worked in Power, Manufacturing and Defence sectors. LG, L&T, Flextronics and BEL are the main customer.
+JOB DESCRIPTION
+Planning & implementing marketing activities across all online & offline channels. 
+Setting up new marking strategies. Generating sales leads. Managing customer relationships. 
+Logging and progressing all new leads / potential sales enquiries.
+ Making sales calls and handling enquiries from potential customers. 
+Analyse and produce reports on data provided by customers.
+Campaign tracking, measurement, evaluation and reporting on all activity. 
+Co-ordinating company representation at relevant conferences and exhibitions. 
+Giving onsite support and integration of projects and giving the training for the customer.
+Technical Management:
+Understanding the customer requirements and giving perfect and reasonable test solutions such as data acquisition, Functional test and automated test solutions.
+Suggesting suitable hardware modules such as DAQ, measuring Instruments and test control units (DIO) and modules.
+Systems study at customer place to collect technical specification and their requirement for automation solutions.
+WORK EXPRIENCE
+COMPANY: Access automation Pvt Ltd
+Duration: 6th April- 2015 to till date.
+Designation: Business development executive and application Engineer.
+Description:  Responsible for new business enquiry and field application support.
+
+COMPANY: Absotherm Facility management Pvt Ltd.
+Duration: April-2012 to January-2015
+Designation: BMS Engineer.
+Description:
+Maintaining the computer network for IBMS related systems such as chillers plant, UPS and HT yard. 
+Daily monitoring and checking preventive measurements for VCB and ACB.
+Checking the power transformer performance and its routine checking.
+Routine checking of direct digital controller and Patton converter and other communication devices.
+Maintaining the Novapro application for building management system. 
+Taking care of fire alarm (Fire-pro) integration and fire fighting system of building.
+
+COMPANY: Eltel Industries.
+Duration: May-2006 to June-2008
+Designation: Testing Engineer.
+Description:
+Testing of Online UPS Battery chargers, Inverters and servo stabilizer.
+Testing of transformer winding resistance measurement instruments.
+Integration of CT/PT testing rack system along with EPD, de-magnetiser and burden. transmission, whose data can be recorded and viewed.
+Functional Testing  for Online UPS and Inverters.
+Board level testing of Charger and Inverter card for UPS and Inverter.
+Servicing of Servo stabilizer, online UPS and Inverters.
+
+
+
+
+SOFTWARE SKILLS
+Completed Advance Diploma in Embedded systems from Cranes Software International, during July-2011 to August-2012.
+C-programming, Microcontroller 8051 and LabView.
+Successfully completed the project on Hotel Reservations system using C++ features such as class, functions, Inheritance and file.
+Knowledge in machine level programming Languages: MASN8080, MPLAB 8051.
+
+UNDERGRADUATE PROJECT
+Human Hands and Voice Interpretation Robot with Navigation             Dec 2010-Jun 2011
+This project deals with the interpretation of a humanoid type robot which can:
+Interpret the basic movements of human hands and voice: The movement of robot (FRONT,BACK,LEFT,RIGHT) can be controlled by voice.
+            Navigation is through wheels and the robot hands can be controlled by Accelerometers attached to human hands there is also a provision for distance sensor on robot in case of Emergency and a camera mounted on it for video 
+EXTRA-CURRICULAR ACHIEVEMENTS
+Our BE academic project was adjudged as one of the outstanding projects of the year and was selected for the “PROJECT OF THE YEAR 2010-11” award by KSCST.
+PERSONAL PROFILE:
+Father’s Name				: P Srinivasa Rao
+Date of Birth				: 1st April 1986
+Nationality				: Indian
+Mother Tongue			: Kannada
+Sex					: Male
+Marital status				: Single
+Languages known			: English, Kannada, Hindi &Malayalam.	
+Passport No                                         : J8769347
+I affirm that the information given above is true and correct to the best of my knowledge.
+Place: 					                                	    Your Faithfully,
+                                                                                                       SUNIL KUMAR PS	   

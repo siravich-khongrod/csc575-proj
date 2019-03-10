@@ -1,0 +1,108 @@
+                                            
+TANSEER AHMED. K						No: 01 lalakutty street,			                                  				Perimet-Chennai- 03.
+
+E-MAIL ID: 
+CONTACT : +91 80564 19538          
+
+
+Professional Summary:
+
+Having 2 years of work experience in Software Testing
+Experience and Knowledge in Software Testing Life Cycle and Bug life cycle.
+Have acquired hands on Experience in the preparation of functional test cases by analyzing the requirement specification document.
+Experience in System testing, Regression Testing, Functional and Adhoc Testing.
+Knowledge on Traceability Matrix.
+Actively participated in Project status meetings with team members.
+Having good interpersonal skills, self-motivated, hardworking and ability to               co-ordinate activities and work in a Team/Group environment.
+
+Educational Qualification:
+
+Completed Bachelor of Engineering in Information Technology in the year 2012 with First Class Degree from Anna University.
+
+            
+Technical Skills:
+
+Operating Systems	:   Windows 98, 2000, XP, 7
+Database		:   SQL Server 2005, 2008
+Testing Tool		:   QTP 
+	Web Technologies	:   HTML
+
+
+Work Experience:
+
+Worked as a Software Test Engineer in Live biz Technologies, Chennai from July 2013 to July 2015.
+
+Worked as Customer Support Executive at Bharat Matrimony, Chennai from April 2013 to July 2013.
+
+
+
+Project Profile
+Project #1
+
+
+Project Description:
+
+The scope of the project is to develop the Matrimony Site and to provide a superior matchmaking experience by expanding the opportunities available to meet potential life partners. This site allows users to find love and happiness. This site allows the users to talk to one another and meet people from similar background in UK.
+
+Roles and Responsibility:
+
+Test cases development by analyzing Product requirements specifications
+Logging the defects found, managing defects to closure
+Involved in Test case Review.
+Involved in Test Environment setup
+Prepared the system scenarios and drafted test cases
+Involved in UI testing and Functionality testing
+Involved in Regression testing and System Testing
+Project #2
+
+Project Description:  
+
+The scope of the project is to develop the Video conferencing tool to be used by the staff, via an installed application. It allows staff to effortlessly contact clients and other members of staff by video conference with them.
+Role and Responsibilities: 
+
+Responsible for creating complete test cases, test data, and reporting status ensuring accurate coverage of requirements.
+Manually testing the GUI Application taking in to consideration its functional requirements.
+Bug reporting and tracking.
+Project #3
+
+Project Description:  
+
+The scope of the project is to develop the Video E-learning Site. Music Academy Live will be an educational website for teaching and learning how to play a variety of musical instruments. It simply provides a venue where students and teachers can meet, and the tools they need to have real, live and interactive lessons.
+.
+Role and Responsibilities: 
+
+Involved in preparation of Test plan.
+Preparation of Test Cases for the application under testing.
+Analyzing and Execution of Test scenarios.
+Involved in various levels of testing (Functional Testing, Regression Testing, Performance Testing, Adhoc Testing, Sanity Testing, Smoke Testing, and Database Testing.
+Project #4
+
+Project Description:  
+
+This site is created for health care professionals to find quality partners since they are so busy, most of their time with their careers. The site matches doctor with doctors or doctor with aspiring women and men.
+Role and Responsibilities: 
+
+Actively involved in preparing and executing Performed GUI Tests, Regression tests, Functionality testing, Integration Testing and Adhoc Testing.
+Executing Test cases manually
+Involved in peer reviews with team members
+Updated Traceability Matrix regularly.
+
+
+Personal Details: 
+
+Name			:	Tanseer Ahmed K
+Date of Birth		:	05.11.1990
+Gender		:	Male
+Father’s Name	:	Muneer Ahmed K
+Languages known	:	English, Tamil, Urdu and Hindi
+Hobbies		:	Painting, Playing cricket and Net surfing
+
+
+Declaration:
+
+
+I hereby declare that the above given details are true and correct, to the best of my knowledge.
+
+
+Date: 										    Tanseer Ahmed. K
+Place:

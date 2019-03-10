@@ -1,0 +1,141 @@
+
+P.Venkata Durga Viswanadh
+Viswanadh540.poppoppu@gmail.com
+viswanadh.durga@wipro.com
+Mobile No: +91-9533015454
+
+Objective:
+
+      To build a career with leading corporate of hi-tech  environment  with
+committed and dedicated people, which will help me to explore  myself  fully
+and realize my potential. Willing to work as a key player in  challenging  &
+creative environment.
+
+
+Technical Summary:
+
+
+
+
+    . Having Six Months of experience in Database Administration of MS SQL
+      SERVER in Production and Development.
+    . Excellent skills with Configuration, Installation and knowledge in up
+      gradation.
+    . Troubleshooting and Managing of MS SQL SERVER 2000, 2005 on Windows
+      server 2000 platforms.
+    . Configuring/administering SSAS/SSRS
+    . Performed daily database administration tasks like User management &
+      Storage Management.
+    . Experience with Backups, Recovery and Restoration.
+    . Checking for Error Logs, Locks and Blocks and Long Running Queries.
+    . Checking for Job Alerts.
+    . Having Good knowledge on log shipping and failover clustering.
+
+TECHNICAL SKILLS:
+
+Operating System       : Windows Server 2012,Windows 2007
+Databases              : MS SQL SERVER 2000 and 2005, MS Access
+Programming Language   : Java,J2SE
+Tools                  : SQL Server Management Studio, Enterprise
+      Manager, SQL
+                         Server Agent, Performance Monitor, Query Analyzer.
+
+Network Topologies           : DHCP,TCP/IP,
+
+Routing Protocols            : EIGRP,OSPF, RIP.
+
+
+
+
+
+WORK EXPERIENCE:
+
+
+
+Working with Acute Informatics, Client for Wipro InfoTech., as System
+Engineer at commissioner of commercial taxes, Hyderabad Since August 2013
+to till date.
+
+
+
+
+
+Project : Tax Information Exchange System
+
+
+
+Project Description: Tax Information Exchange System (TINXSYS) is a project
+to facilitate effective tracking of inter-State transactions. The project
+is designed to facilitate Commercial Tax Departments of various States and
+Union Territories to exchange the data regarding the interstate trade and
+help them in checking evasion of tax. The project is being implemented by
+Empowered Committee of State Finance Ministers (EC) on turnkey basis.
+
+
+
+
+
+
+Roles and Responsibilities:
+
+
+. Administering SQL Server Production Database.
+. Backup and Restore.
+. Monitoring SQL Server Jobs (SQL Server Agent and Maintenance Plans Jobs)
+. Installing, Configuring database servers.
+. Troubleshooting SQL Server production issues.
+. Capacity planning and monitoring database growth.
+. Replication management.
+. Managing SQL Server security and logins.
+. Importing Exporting data using DTS, SSIS packages. This is intended to
+move a data from one location to another or create a copy of the data.
+. Designing disaster recovery strategies.
+. Building rebuilding indexes to improve performance.
+. Moving objects from QA to Production databases. Detach and Attach in
+order to move a database from one location to another.
+
+
+Achievements:
+
+    . Certified and trained on Advanced Industry Certification in Software
+      Development -Java from TALENTSPRINT - IIIT Hyderabad.
+    . Received the Client for client appreciation letter for  Government  of
+      Andhra Pradesh and Telangana.
+
+
+
+
+Educational Summary:
+
+
+    . Completed Bachelor of Technology (CSE) in  2013  at  Akula  Sreeramulu
+      College Of Engineering from JNTU Kakinada.
+    . Completed my Intermediate in 2009 in Pragati Jr. College, Tanuku.
+    . Completed my SSC in 2007 Gowtham Model School, Tanuku.
+
+Personal Details:
+
+      Name       :        Poppoppu Venkata Durga Viswanadh
+      Date of Birth    :        22-June-1992.
+      Nationality            :        Indian.
+      Languages known  :        English, Telugu.
+      Passport Number  :        N1721396.
+  Passport Issued Date :        03-08-2015
+      Passport Expiry Date   :        02-08-2025
+
+
+Declaration:
+
+I  hereby declare that the above mentioned particulars are true to the  best
+of my knowledge.
+
+Date:                                                                  Yours
+Sincerely
+
+Place:                                                             Hyderabad
+
+
+                                                        P.V.D.Viswanadh.
+
+
+

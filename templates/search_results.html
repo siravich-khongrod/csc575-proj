@@ -1,0 +1,17 @@
+<!doctype html>
+<title>Hello from Flask</title>
+{% if results %}
+  <!--h4>{{ results }}</h4-->
+  <br/>
+  <h2>RESULTS</h2>
+  <table>
+  {% for doc in results['docs'] %}
+	<tr>
+		<td><a href="get_file?file={{ doc[0] }}">{{ doc[0][17:] }}</a></td>
+		<td>{{ doc[1] }}</td>
+	</tr>
+  {% endfor %}
+  </table>
+{% else %}
+  <h1>Hello, World!</h1>
+{% endif %}
