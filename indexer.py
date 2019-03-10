@@ -8,7 +8,7 @@ import json
 def get_file_names():
     files = []
     #'../data/solarhrm*.pdf'
-    for file in glob.glob("./data/documents/*.pdf"):
+    for file in glob.glob("./data/documents/*.txt"):
         files.append(file)
     return files
 
@@ -25,6 +25,7 @@ def write(inverted_index,length_index):
     json.dump(length_index,length_index_file)
     
 def generate_index():
+    print('generating index...')
     resume_files = get_file_names()
     inverted_index = defaultdict(list)
     length_index = defaultdict(list)
