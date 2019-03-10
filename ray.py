@@ -11,4 +11,4 @@ import indexer
 import bm25
 
 import imp
-#indexer.generate_index()
+indexer.generate_index()
