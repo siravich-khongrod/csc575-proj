@@ -11,7 +11,7 @@ import indexer
 import bm25
 
 import imp
-indexer.generate_index()
+#indexer.generate_index()
 
 
 app = Flask(__name__)
@@ -24,7 +24,7 @@ def render_sr():
 		q = request.args['q']
 		if len(q) == 0:
 			abort(404)
-		url=request.base_url+'?q='+q
+		url=request.base_url+'search_api?q='+q
 		print(url)
 	else:
 		abort(404)
