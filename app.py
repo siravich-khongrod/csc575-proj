@@ -24,7 +24,7 @@ def render_sr():
 		q = request.args['q']
 		if len(q) == 0:
 			abort(404)
-		url='http://127.0.0.1:5000/search_api?q='+q
+		url=request.base_url+'?q='+q
 		print(url)
 	else:
 		abort(404)
