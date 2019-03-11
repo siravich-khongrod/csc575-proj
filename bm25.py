@@ -67,11 +67,7 @@ def search(query):
     return result
     
 def matching(keyword):
-<<<<<<< HEAD
-    results = search(keyword)#[:5]  
-=======
-    results = search(keyword)[:5]  
->>>>>>> 3c13b19c2063f5bf45ba249b5a265d37adc63e6c
+    results = search(keyword)[:5]
     for result in results:
         print(result)
     return results
