@@ -7,7 +7,7 @@
   <table>
   {% for doc in results['docs'] %}
 	<tr>
-		<td><a href="get_file?file={{ doc[0] }}">{{ doc[0][17:] }}</a></td>
+		<td><a href="get_file?file={{ doc[0].replace('\\','/') }}">{{ doc[0][17:] }}</a></td>
 		<td>{{ doc[1] }}</td>
 	</tr>
   {% endfor %}
