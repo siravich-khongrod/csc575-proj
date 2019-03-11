@@ -27,7 +27,8 @@ def render_sr():
 		url=request.base_url+'search_api?q='+q
 		print(url)
 	else:
-		abort(404)
+		return render_template('dummy_home.html')
+		# welcome page
 #	url='https://secure-woodland-20008.herokuapp.com/search?q='+q
 #	task = [task for task in tasks if task['id'] == task_id]
 #    if len(task) == 0:
