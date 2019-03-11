@@ -1,4 +1,4 @@
-from math import log
+import math
 from collections import defaultdict
 import json
 import operator
@@ -21,40 +21,53 @@ R = 0 # (set to 0 if no relevancy info is known)
 
 # MAIN METHOD
 
-def BM25(docLen, avDocLen, n, N, f, q, r):
-    p1 = ((k2 + 1) * q) / (k2 + q)
-    p2 = ((k1 + 1) * f) / (getK(docLen, avDocLen) + f)
-    p3 = log(((r + 0.5)/(R-r+0.5)) / ((n - r + 0.5)/(N - n - R + r + 0.5)))
+def BM25(doc_len, avg_doc_len, n_doc_w_term, n_total_doc, freq_term_doc, freq_term_query, rel_doc_w_term):
+    n = n_doc_w_term
+    N = n_total_doc
+    f = freq_term_doc
+    q = freq_term_query
+    r = rel_doc_w_term
+    
+    p1 = ((k2 + 1) * q) / (k2 + q) #Relevance between term and query
+    p2 = ((k1 + 1) * f) / (getK(doc_len, avg_doc_len) + f) #Relevance between term and document
+    p3 = math.log((((r + 0.5)/(R-r+0.5)) / ((n - r + 0.5)/(N - n - R + r + 0.5)))+1) # Term Weight
     return p1 * p2 * p3
 
-def getK(docLen, avDocLen):
-    return k1 * ((1 - b) + b * (float(docLen) / float(avDocLen)))
-	
-	
+def getK(doc_len, avg_doc_len):
+    return k1 * ((1 - b) + b * (float(doc_len) / float(avg_doc_len)))
+    
+def sigmoid(x):
+    return 1 / (1 + math.exp(-x))
+
 # get average document length
-def get_avdl(length_index):
-    corpus_length = 0
-    for document in length_index:
-        corpus_length += length_index[document]
-    return float(corpus_length) / float(len(length_index))
+def get_avg_doc_len(len_idx):
+    _length = 0
+    for doc in len_idx:
+        _length += len_idx[doc]
+    return float(_length) / float(len(len_idx))
 
 def search(query):
-    inv_index_file = open("./data/indexes/inverted_index.json","r")
-    inverted_index = json.load(inv_index_file)
+    inv_idx_file = open("./data/indexes/inverted_index.json","r")
+    inverted_idx = json.load(inv_idx_file)
 
-    length_index_file = open("./data/indexes/length_index.json","r")
-    length_index = json.load(length_index_file)
+    len_idx_file = open("./data/indexes/length_index.json","r")
+    len_idx = json.load(len_idx_file)
 
     scores = defaultdict(list)
     
-    #query_tokens = query.split()
-    #for token in query_tokens:
-    for token in query:
-        if token in inverted_index.keys():
-            for entry in inverted_index[token]:
-                scores[entry[0]] = BM25(length_index[entry[0]],get_avdl(length_index),len(inverted_index[token]),len(length_index),entry[1],1,0)
-    return sorted(scores.items(),key=operator.itemgetter(1),reverse=True)
-	
+    query_tokens = query.split()
+    for token in query_tokens:
+    #for token in query:
+        if token in inverted_idx.keys():
+            for entry in inverted_idx[token]:
+                bm25_val = BM25(len_idx[entry[0]],get_avg_doc_len(len_idx),len(inverted_idx[token]),len(len_idx),entry[1],1,0)
+                scores[entry[0]] = round(10* sigmoid(bm25_val)-5,4)
+    result = sorted(scores.items(),key=operator.itemgetter(1),reverse=True)
+    #result = sorted(norm_scores.items(), key = operator.itemgetter(1), reverse = True)
+    return result
+    
 def matching(keyword):
-    results = search(keyword)
+    results = search(keyword)[:5]  
+    for result in results:
+        print(result)
     return results

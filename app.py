@@ -11,7 +11,7 @@ import indexer
 import bm25
 
 import imp
-#indexer.generate_index()
+indexer.generate_index()
 
 
 app = Flask(__name__)
