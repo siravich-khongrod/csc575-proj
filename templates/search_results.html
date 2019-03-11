@@ -25,11 +25,10 @@
 
 	.primary_header {
 		width: 100%;
-		background-color:#52bad5;
+		background-color: #ff6600ba;
 		padding-top: 10px;
 		padding-bottom: 10px;
 		clear: left;
-		border-bottom: 2px solid #2C9AB7;
 	}
 	.secondary_header {
 		width: 100%;
@@ -275,11 +274,12 @@
 </head>
 <body>
 {% if results %}
+	<div class="primary_header">
+		  <h1 class="title"> Search Results </h1>
+	</div>
+		
 	<div class="container">
 		<header>
-		<div class="primary_header">
-		  <h1 class="title"> Results </h1>
-		</div>
 		
 		<div style="
 			box-sizing: border-box;
@@ -289,8 +289,10 @@
 			<div class="form-group" style="
 			position: relative;
 			min-height: 1px;
-			/* padding-left: 15px; */
-			/* padding-right: 15px; */
+			padding: 15px;
+			padding-left: 15%;
+			padding-right: 15%;
+			background-color: #c9c9c9;
 		"><input type="text" name="q" class="form-control sjb-required" id="q" required="required" placeholder="What skills are you looking for?" style="
 			font-size: 16px;
 			height: 46px;
@@ -305,8 +307,7 @@
 			border-radius: 4px;
 			box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 			text-align:center;
-		"></div></div>
-		</form>
+		"></div></form>
 
 		<nav class="secondary_header" id="retrieval">
 		<table align="center">
