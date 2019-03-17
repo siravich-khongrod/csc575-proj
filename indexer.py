@@ -32,8 +32,8 @@ def generate_index():
     f = open("./logs",'w')
     for file in resume_files:
         try:
-            file = tokenizer.convert(file)
-            make_index(tokenizer.tokenize(file), file, inverted_index, length_index)
+            c_file = tokenizer.convert(file)
+            make_index(tokenizer.tokenize(c_file), file, inverted_index, length_index)
         except:
             print("warning: "+file+" not indexed")
             f.write(file+'\n')
