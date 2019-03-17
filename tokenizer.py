@@ -2,24 +2,14 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from textblob import TextBlob
+
 ###########################################################################
 def convert(file):
-    pdf_content = []
-
-    pdf = PyPDF2.PdfFileReader(open(str(file),"rb"))
-    # pdf may be more than one page
-    num_pages = pdf.numPages
-    count = 0
-    text = ''
-    while count < num_pages:
-        pageObj = pdf.getPage(count)
-        count +=1
-        text += pageObj.extractText().replace('\n','')
-    if text != '':
-        text = text
-            
-    pdf_content.append(text)   
-    return pdf_content
+    text = []
+    with open(str(file), 'rb') as f:
+        for line in f.readlines():
+            text.append(line.decode("utf-8", "ignore").strip())
+    return text
 
 ###########################################################################     
 def tokenize(lst):            
