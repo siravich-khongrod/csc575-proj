@@ -1,0 +1,174 @@
+Miss.Dhanashri Chavan                                     Contact Address
+                            		
+B.E. (Computer Science), CDAC, DST                      Pushkaraj No2 cooperating housing Email:                         Serve no 17/2 B Windser Estate 
+Mobile: +91 7387516559                            	                flat no delta ½ wadgaonsheri, Pune
+			 
+OBJECTIVE
+
+To give the best of my caliber through sincere, honest, and hard work and prove myself as an asset to the organization.
+
+PROFESSIONAL SUMMARY
+
+4.4 Years of professional IT experience in the field of Software development, Software Testing.
+Having knowledge of working with banking domain,Healthcare domain.
+Good understanding of Agile (SCRUM) methodology.
+Knowledge of Testing Windows and web based application
+Having knowledge of RFT,RQM,Selenium testing tools.
+Rich experience in Captiva tool.
+Experience in Designing and Preparing test cases and execute them.
+Good knowledge of Black Box testing techniques.
+Experience in Functional Testing, GUI Testing, Usability Testing,System testing, Integaration   testing .
+Extensive experience in Functional and Non-functional testing.
+Good Exposure in SDLC, STLC, Defect Life Cycle, SQL queries.
+Involved in analysis, design, development, testing, batch fixing.
+Hands-on experience on Databases.
+
+Skill SET
+
+Operating Systems 	 :  Window XP and windows 2007
+Database               	 :  Oracle 10g, MySQL
+Tools                      	 :  RFT, Selenium webdriver, Selenium IDE, QTP-8.2(Theory 
+                                             Knowledge), RQM, QC, Captiva,C#,VB.NET
+      Bug Reporting tool 	:  Jira, Bugzila.
+PROFESSIONAL EXPERIENCE
+
+Presently working with Cybage Software Pvt Ltd, Pune as a Software Engineer February 2011 to till Date. Worked on client side HSBC Pvt. Ltd., Pune as a Software Engineer (April. 2012 – April. 2014)
+
+PROJECTS UNDER TAKEN
+Project Name: CAPTIVA (Capture Tool)
+
+Employer: HSBC Pvt. Ltd., Pune
+Client: HSBC Bank
+Technologies: .net, FileNet.
+Operating Systems: windows 2007
+Domain: Banking Captiva Input Accel.
+Database: SQL server 2005
+Other Tools: RTC/SONAR, Revellie, Cognos
+
+Project Description:
+EMC Captiva Capture enables organizations to capture documents and data from paper, electronic files, and other sources, transforming it into digital content and delivering it into content management systems and business processes. By helping businesses reduce manual paper handling steps, Captiva Capture minimizes processing errors, improves data accuracy, and accelerates business processes by making information instantly available in content repositories like EM Documentum, EMC ApplicationXtender, and Microsoft SharePoint. with Captiva Capture, businesses can leverage a proven enterprise document capture platform that scales to handle a few thousand documents or several million documents per day, allowing businesses to meet their future business growth.
+
+
+Responsibilities:
+
+Working on projects(Captiva)for the largest banking company-HSBC GLT1.0
+Participating in requirements design phase with customers.
+Working on different tools like RTC code repository, Reveillie reporting tool.
+Handling customer communication for all technology needs
+Achieving goals successfully before time line.
+Integrating and Unit testing
+Working on documentation of various Processes
+Worked on production batch fixing(L2 support)
+Involved in Preparation & Execution of the Test Cases
+Filing bugs under appropriate category and fallow them
+
+Project Name: CYRAMED
+Employer: Cybage Software Pvt. Ltd.Pune
+Client: MMT (Mountain Medical Technology)
+Technologies:  C#, Microsoft visual studio 2008
+Operating Systems: windows 2007
+Domain: Health Care
+Database: SQL server 2005
+Other Tools: NA
+Project Description:
+This project is regarding with health care domain.Cyramed application take new as well as existing patient entry, keep information of the patient. If patient is new, then he/she need to fill the information form which includes fields like personal information. Then create encounter for the newly added patient, book appointment for the patient, also assign doctor for the patient.
+Every patient has separate form called as face sheet form which contains number of tabs like medication, allergies via these tabs we will add necessary medication for the patient, also add allergies patient suffering from, we also generate.
+SOAP(subjective,Objective,Assessment,Plan)note from this application which is nothing but a report which consists of general examination of the patient, dieses patient suffering from, drug name offered by doctor.
+Also consists of doctor signature at the end of the report. Fax, scanning functionality also provided. In short, Cyramed is the application which includes all information of the patient.
+
+Roles and Responsibilities in the project:
+Manual test execution of execution of existing & newly written test cases.
+Reading the Test Plan & Writing the new test cases according to the specification given in the test plan.
+UI Verifications
+Platform upgrade testing
+Filing bugs under appropriate category and fallow them.
+Helping developers time to time to reproduce the bugs
+
+
+Filing bugs under appropriate category and fallow them
+
+Project Name: Business Development System
+Employer: Cybage Software Pvt. Ltd.Pune
+Client: Cybage Software Pvt.Ltd.Pune
+Technologies:  C#, Visual Studio Team foundation Server 2010-Professional
+Operating Systems: windows 2008
+Domain: Master Data Management
+Database: SQL server 2008
+Other Tools: NA
+
+Project Description:
+We can create two types of customer Actual Customer & Potential Customer.
+Actual Customers:Already started business with organization. there is a need of           approval in case of Actual Customer.
+Potential Customer(P_Customer):They are in pipeline.still discussion is going on. 
+We can convert potential customer into actual customer.
+Customer Creation:	
+
+There is a workflow in case of Customer Creation.
+Customer creation rights with BD user i.e marketing User which is mahesh on QA server & kavitad(stage server)
+Customer Approval rights with Kavitad(QA) & smitabe(Stage)
+Customer Owner Assignment rights with CXO i.e Skushwaha & superadmin
+Account Creation Rights with CO/VP,Superadmin & Account Manager(No workflow)
+Project Creation rights with AM,CO/VP,Superadmin,DM,PM(workflow)
+Project Approval Rights with PMO user i.e sunilp
+Approach is Top to Bottom
+Rights for each user.
+Superadmin--->Customer Owner(CO/VP)-->Account Manager(AM)-->Delivery Manager(DM)-->Project Manager(PM)
+
+
+Customer Closure:
+
+Customer Closure Rights with Superadmin,CO/VP etc.
+CO and super-admin can close the customer.
+Request will be approved by finance team first
+Request will send to legal team for approval.
+Super-admin can re-open the closed customer
+Account Closure rights with Superadmin,CO/VP ,AM etc.
+Project Closure rights with Superadmin, CO/VP ,AM, DM,PM etc.
+Project will get closed without any workflow if there is no billable resources under it then it is called as light weight.
+Approach is Bottom to up.
+if billable resources are there under the project then there is a workflow.
+First have to release the billable resources under the project.
+If there is any active project under any account then we have to first close the project then only we can close the account. If there is no project under any account 
+then we can directly close the account.
+If any account or project is active under that customer, customer can’t be closed.
+For Project Closure there is a workflow from finance, IS, Network DEPT, Security,PMO,IS,Process team etc.
+
+POC(Point Of Contact):
+In order to maintain the customer, Account & project Level information we create POC. 
+For POC creation at customer level rights with PRM, CDM, Superadmin, CO/VP
+If any contact is not associated with any customer then prospect is there otherwise POC will get created
+For POC creation at Account level rights with AM, Superadmin CO/VP.We can assign customer level POC to Account Level by clicking On checkbox. & vice versa from Master POC page.
+For POC creation at Project level rights with AM,DM,PM Superadmin CO/VP.We can assign customer level & Account level POC to Project Level by clicking On checkbox. & vice versa from Master POC page.
+For Every POC we can add activities i.e activity log.
+It is editable & visible to only limited user depending on their roles
+MASTER POC
+
+
+
+TRAININGS ATTENDED
+
+Completed DST (Diploma in Software Testing) from Mind Script Infotech Ltd. Pune.
+Course Contents:
+Manual Testing
+Automation Testing
+
+EDUCATION
+
+B.E. in Computer Science and Technology, Kolhapur in 2010 with 67.21% marks, First Class with Distinction.
+Diploma (IT) with 67.56% from Government Polytechnic Kolhapur, with First Class.
+HSC with 65.17% from Maharashtra State Board, Kolhapur, with First Class.
+S.S.C. With 78.80% from Maharashtra State Board Kolhapur, with First Class.
+CDAC with 57.26% from Infoway Pune, Maharashtra
+PERSONAL PROFILE
+Date of Birth			:  17/05/1988
+Sex				:  female
+Marital Status			:  Single
+Languages			:  Marathi, Hindi, English
+Hobbies			:  Listening to music, cooking, dancing.
+Permanent Address		:  A/P: Kololi, Tal: Panhala, Dist: Kolhapur,
+   State: Maharashtra, Pin: 416230.
+Contact Phone No		:  91-7387516559.
+
+Date:
+Place: PUNE                                                                       
+DHANASHRI PRAKASH CHAVAN

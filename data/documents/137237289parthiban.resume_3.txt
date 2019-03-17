@@ -1,0 +1,181 @@
+
+                                   RESUME
+
+PARTHIBAN RAJENDRAN
+
+ #132, Kudi Street,
+Olappalayam (P.O),   P.Velur(T.K),
+                             Namakkal (D.T)-638182,
+                                Tamilnadu, India.
+
+
+Email: rparthiban.eie@gmail.com
+Phone: +91-9629128040.
+Skype id: effect.parthiban
+
+
+
+OBJECTIVE
+
+               Seeking a position to learn and utilize my skills and
+abilities in the organization, willing to take more responsibilities.
+Looking for a challenging and demanding job in power/oil and gas industries
+as Instrumentation engineer that will further enhance my knowledge and
+skills.
+
+EDUCATION
+
+   . Bachelor of Engineering (BE) in Electronics and Instrumentation
+     engineering,        Kumaraguru college of technology ,Coimbatore,
+     Affiliated to Anna University Chennai,
+     First class with-65%.
+     Duration        : (2006-2010)
+
+
+   . Class XII  : 85 %(2006).
+
+   . Class X     : 84 %(2004).
+
+
+
+SKILLS
+
+Technical Tools  :      DCS-Yokogawa CS 3000&1000.
+
+                        PLC-Siemens simatic S7-200,Allen Bradley micro
+logics 5000.
+
+                        Turbine vibration monitoring system-Bently nevada
+3500.
+
+                        Turbine governor-Woodward governor 505E.
+
+                        SIS-Prosafe RS
+
+Operating System :     Windows XP SP3/vista/7,Linux.
+
+Application Software   :     MS Word, MS Excel, MS Power point.
+
+Protocol         :     Foundation field bus, profibus DP&PA, modbus,
+      Ethernet (TCP/IP),
+
+                       HART communicator.
+
+
+
+
+
+EXPERIENCE
+
+      Organization     :     SASL(Power division), tamilnadu.
+
+      Designation :    Instrument and control system engineer.
+
+      Period           :     June 2010 to present.
+
+      Infrastructure   :     240 MW power plant.
+
+
+
+
+NATURE OF JOB
+
+    . Involved in DCS installation and commissioning.
+
+    . Development of system architecture, functional specification, I/O list
+      and block logic diagram.
+
+    . Implementing the I/O list and BLD to programming level.
+
+    . Simulating the logic for sequence checking with real hardware.
+
+    . Establishing network between workstation PCs using Ethernet protocol
+
+    . Exposure in programming languages IL,LD,ST,FBD and SFC as IEC 61131-3
+      standard.
+
+    . Creating & Dynamising Graphics from P&I diagram.
+
+    . Having knowledge in industrial networks Foundation field bus,
+      profibus, modbus and Ethernet, (TCP/IP).
+
+
+
+    . Having creative skills to develop SCADA graphics.
+
+    . Involved in signal loop checking by observing DCS I/O list and
+      electrical drawing sheet.
+
+    . Commissioning of control valves and calibration of control valves
+      (MIL, FISHER, IL),
+
+    . Control room panel installation and cable termination.
+
+    . Experience in preparation/review of all types of field instruments
+      ,cable schedule, instrument data sheet ,Hook up diagrams, P&ID
+      diagram, loop diagram.
+
+    . Conducting factory acceptance test.
+
+    . Having experience in Installation and commissioning of pressure,
+      temperature, flow and level transmitters (ABB, Yokogawa, Siemens,
+      Honeywell, Fuji).
+
+    . Installation and functional checking of magnetic flow meter (ABB,
+      Endress & hauser).
+
+    . Working with HART communicator.
+
+    . Troubleshooting experience in turbine local and panel governing
+      system.
+
+    . Involved in turbine instrument temperature and vibration probe
+      installation and functional checking.
+
+    . Troubleshooting experience of turbine vibration monitoring system,
+      "Bently Nevada 3500".
+
+    . Having experience in ash handling system (ESP).
+
+    . Having experience in troubleshooting of motorized valve.
+
+    . Installation and troubleshooting experience in lab analysers, oxygen
+      analyser and SPM analyser.
+
+    . Having good analytical skills, problem solving skills and good
+      communication skills.
+
+
+
+
+PERSONAL DETAILS
+
+      Name             :     R.PARTHIBAN
+
+      D.O.B            :     25.05.1989
+
+      Languages Known  :     Tamil, English (Read, write, speak)
+
+      Marital status         :     Single.
+
+      Sex              :     Male.
+
+      Age              :     26 years.
+
+      Passport No      :     J8583089, Valid up to 09.09.2022.
+
+
+
+
+DECLARATION
+
+                  I hereby declare that the above furnished details are
+true to the best of my knowledge.
+
+
+
+Place:
+
+Date:
+(R.PARTHIBAN)
+

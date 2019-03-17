@@ -1,0 +1,152 @@
+
+                                                               Atul Rana
+                                       E-42, Sector -Delta 1, Greater Noida
+
+                                              +91 9717050796, +919882097017
+                                atul.rana22@gmail.com ,
+atul_rana2@yahoo.co.in
+
+Master in Computer Science (MCA) trained in WAN & LAN networking technology
+having complete knowledge of CCNA and MCSA. 4 years in the computer field.
+Engineered and implemented LAN/WAN networks using variety of
+Hardware/Software. Support users, desktops & networks requiring
+troubleshooting and analytical skills. Has a full understanding in the use
+and connection of the Internet, Intranet, LAN/WAN.
+
+
+Professional Experience:
+
+Bips Systems Ltd, Delhi
+June 2011 to Present
+Technical Support Engineer
+
+Job Responsibility:
+
+
+   1. Installing, configuring &  administering  Win  2003  standard  Server.
+      Creating User Accounts, Configuring User  Profiles,  Managing  Account
+      and Domain Controller. Profiles.
+   2. Manage Server :File Server , DHCP, DNS, WSUS , Proxy Server (Interscan
+      web security services (IWSS))
+
+   3. Symantec Backup exec application for file server backup (Full backup)
+
+
+   4. Network Devices Installation, Management and Troubleshooting.
+
+
+   5. Maintain LAN & WAN Connectivity
+
+   6. Installs and administers  Windows  operating  system  .Performs  PC  &
+      related  hardware   installations,   maintenance   &   troubleshooting
+      .Responds  to  inquiries  and  requests  for   assistance   with   the
+      organization's computer systems.
+
+   7. Software Administration: Installation  of  various  in-house  &  other
+      software on server & client pc etc.
+
+   8. Print Administration: Network Printer: - Installation of Configuration
+      Network, Standalone Printer & Plotter.
+
+   9. Antivirus Administration: - Installation and updating of Trend  Micro,
+      MacAfee Enterprise, Norton and Quick Heal.
+
+  10. Mail Administration: Configure  &  Troubleshoot  MS  Outlook,  Outlook
+      Express, Web outlook.
+
+  11. Maintain inventory
+
+  12. Vendor Management
+
+  13. Lead Team for various IT related issue.
+
+
+Allied Digital Services Limited, Delhi
+Sept, 2010 to May, 2011
+Customer support Engineer
+
+
+Job Responsibility:
+        1. Setting of small & medium sized networks
+        2. Cabling & crimping for systems, hubs, switches & routers
+        3. TCP/IP Services, IP addressing
+        4. Trouble shooting the networking related problems.
+        5. Troubleshooting & maintenance of PCs.
+        6. Trouble shooting of Monitor, SMPS, Mother Board.
+        7. Installation of Operating Systems Win XP, Win 2000, Win 2003
+           etc.
+        8. Installation of various software.
+        9. Installation of device drivers & hardware components.
+       10. Configuration of Printer, Modem, Scanner.
+
+
+Mahajan Enterprises
+  Dec, 2009 to July, 2010
+Customer support Engineer
+
+
+   Job Responsibility:
+
+
+        1. Handling LAN and WAN Connectivity Issues
+        2. Network Installation, Management and Troubleshooting
+        3. Trouble shoots Hardware & Networking Issues
+
+
+
+Freelance Project:
+    . Worked on freelance basis at Delhi Metro in installing and configure
+      routers and layer 3, layer 2 switches  at Yamuna Bank line to  Anand
+      Vihar
+
+Education Qualification
+    . MCA from PCTE College, Punjab Technical University, Jalandhar in the
+      year 2009
+    . BCA from Trinity College, Guru Nanak Dev. University, Amritsar in the
+      year 2006
+    . 10+2 from HPSEB ,Dharamshala
+    . 10th from HPSEB ,Dharamshala
+
+Training
+    . Certified Cisco Certified Network  Associate (CCNA) with  Cisco
+      id:CSCO11770053
+               . Good command over Internetworking, Sub netting, IP-routing,
+                 Switching, VLAN, Access-List, NAT, Wireless Technology,
+                 Ipv6 and WAN
+    . Training and complete knowledge of Microsoft Certified System
+      Administrator (MCSA)
+               . Installing, configure and administering window
+               . Window Server 2003 environment management and maintenance.
+                 Window Server 2003 network  infrastructure  implementation,
+                                        management and maintenance
+               . Exchange Server 2003 implementation and management
+
+IT Skills -
+    . Networking Type: WAN  and LAN
+    . Language: C, C++,
+    . Operating System: Windows, Ubuntu, Windows Server 2003
+    . Web Technologies: HTML, XML
+    . Database Languages: MS-Access, SQL ,Sql Server 2005
+
+
+Personal Details -
+
+             Date of birth:          25/MAR/1985
+             Nationality:            Indian
+             Language known:  English, Hindi, Punjabi
+             Passport No:           H6382919
+             Expiry Date:          18/05/2020
+
+
+
+Declaration:
+I, hereby declare that all the information provided is true to the best of
+my knowledge and belief.
+
+
+
+
+
+Date:                                   (Atul Rana)
+
+

@@ -1,0 +1,151 @@
+
+                                            Cell: 91+09634402628
+Shivang Rajwanshi                                               Email:
+shivangrajwanshi@gmail.com
+[pic]
+Objective:
+
+ I am waiting for a good position in an oil/gas  &  power  sector  or  other
+instrumentation & controls engineering field, to share my knowledge  at  the
+best and to acquire a leading edge expertise in every corner of  my  working
+area and thus contribute towards the growth of  the  organization  with  the
+willingness to  learn.  Strengths  lie  in  innovation,  analysis,  and  the
+ability to work effectively in a team environment.
+
+Education Qualification:
+
+    .  Master  of  Technology  with  Honors  in  Instrumentation  &  Control
+      Engineering from Sant Longowal Institute of Engineering &  Technology,
+      Deemed University in the year 2010 with  aggregate  C.G.P.A  8.16  and
+      submitted Thesis on topic "Analysis of Energy Consumption  Pattern  by
+      Designated Consumers in the State of Punjab"
+    . Bachelor of Technology in Electrical &  Electronics  Engineering  from
+      Sam Higginbottom Institute  of  Agriculture,  Technology  &  Sciences,
+      Formerly Allahabad Agricultural Institute  Deemed  University  in  the
+      year 2008 with aggregate C.G.P.A 7.19
+    . 10+2 from Translam Academy International, Meerut (C.B.S.E) in the year
+      2004.
+    . 10th from Meerut Public School, Meerut in the year 2002.
+
+Working Experience
+    . Five months teaching experience at SSITM, Aligarh from August 2010  to
+      December 2010
+    . Six months teaching experience at RGEC, Meerut from  January  2011  to
+      June 2011
+    . Nine months teaching experience  at  JJT  University,  Jhunjhunu  from
+      November 2011 to July 2012
+    . One year experience as an electronics engineer at  Skyinfotech,  Noida
+      from July 2012 to July 2013
+
+Achievements:
+
+    . Participated in Seminar at Technical Festival Horizon`07 conducted  by
+      College of Engineering & Technology, awarded with III position.
+    . Participated in 3rd international conference on "power  electronics  &
+      intelligent control" organized by department of electrical engineering
+      at Malaviya National Institute of Technology.
+    .  Participated  in  two  days  certificate  course  on  "planning   and
+      implementation of solar pv power plants" organized by centre of energy
+      and environment at Malaviya National Institute of Technology.
+    . Participated in one week short term training program on "operation and
+      control of modern power systems" organized by department of electrical
+      engineering at Malaviya National Institute of Technology.
+    . Participated in 2nd international conference 2012 on "renewable energy
+      resources & management"  and  presented  research  paper  on  a  topic
+      "Impact of renewable  energy  resources  in  Jhunjhunu"  conducted  by
+      renewable  energy  research  centre,  Shri   Jagdishprasad   Jhabarmal
+      Tibrewala University.
+    . Participated in national conference on "creative and innovative trends
+      in management" organized by Institute of commerce and management, Shri
+      Jagdishprasad Jhabarmal Tibrewala University.
+    . Participated  in  international  conference  on  "emerging  issue  and
+      challenges  in  higher  education"  organized  by  Shri  Jagdishprasad
+      Jhabarmal Tibrewala University.
+    . Participated  in  international  conference  on  "emerging  trends  in
+      computer science and information technology" organized  by  department
+      of  computer   science,   Shri   Jagdishprasad   Jhabarmal   Tibrewala
+      University.
+    . Organized a  second  international  seminar  2012,  "renewable  energy
+      resources & management" held on  16th  to  18th  march  2012  at  Shri
+      Jagdishprasad Jhabarmal Tibrewala University
+    . Participated in Senior Section Essay Writing competition conducted  by
+      Vision India Educational Systems under the aegis  of  HOPE  (HOME  FOR
+      ORPHAN POOR & EDUCATION).
+    .  Participated  in  Inter  House  Badminton  Tournament  (Junior-level)
+      awarded with II position.
+    . Awarded with Baidyanath Shankhapusphi Scholarship in academic session.
+
+Professional Skills
+
+    . Familiar with Networking and Hardening of Computer System.
+    . MS-Office , Operating SystemWindows-Vista,2007
+    . CRM Solutions - Finacle
+    . Programming Languages, Matlab
+
+Project1#:
+
+    . Successfully completed 30 days practical training in Areva Transformer
+      and  Development  India  Limited,  Naini  on  Study  of   Distribution
+      Transformers in June-July 2006.
+
+      Description:
+      The transformers are  used  to  reduce  the  primary  voltage  of  the
+      electric distribution system to the utilization  voltage  serving  the
+      customer. It is a static device constructed with two or more  windings
+      used to transfer alternating-current electric power by electromagnetic
+      induction from one circuit to another at the same frequency  but  with
+      different values of voltage and current.  Transformers  receive  their
+      electricity from the power plant, through a primary line in  the  form
+      of AC power.
+
+    . Successfully completed 30 days  practical  training  in  Bharat  Heavy
+      Electricals  Limited,  Haridwar  on  Study  of  C.N.C   Machines   and
+      Manufacturing & Operation of Turbo-Generators and Motors in June2007.
+
+      Description:
+      Computer numerically controlled (CNC) machines are used for automating
+      the machining process with flexibility to handle small to medium batch
+      of quantities in part production. CNC technology is applied  on  basic
+      metal cutting machine like lathes, milling machines, etc. CNC machines
+      are capable  of  performing  multiple  operations  milling,  drilling,
+      boring  and  taping.  A  computer  numerical  control   (CNC)   is   a
+      microprocessor-based system to store and  process  the  data  for  the
+      control of slide motions and auxiliary functions of the machine tools.
+
+    . Successfully completed 15 days practical training  in  Bharat  Sanchar
+      Nigam Limited, Meerut on Implementation of Stop and Wait Protocol  for
+      C-Dot Optical Amplifier System Technology in January 2007.
+
+
+      Description:
+      C-DOT Optical Booster Amplifier are developed using a small length  of
+      single mode fiber doped with Erbium in combination with a  high  power
+      pump laser for use as booster amplifier at the Terminals Unit so as to
+      increase the repeaters less span for point to point communication from
+      80 to 120 kilometers at bits rates of 2.5Gbps.
+
+
+    . Successfully completed 30 days practical training in  I.C.I.C.I  Bank,
+      Meerut on Finacle Transforming Banking in July 2007.
+      Description:
+      Finacle is a CRM solution that addresses the core  banking,  treasury,
+      wealth management, consumer and corporate  e-banking,  mobile  banking
+      and web based cash management requirements of  retail,  corporate  and
+      universal banks worldwide.
+
+Personal Details:
+
+
+   Father's Name       :     Er. Y.K. GUPTA
+   Date of Birth       :     27th Nov 1986
+   Nationality               :    Indian
+   Marital Status      :     Single
+   Languages Known     :     English and Hindi
+   Permanent Address   :     G-71 Shastri Nagar Meerut
+                            Uttar Pradesh-250004
+   Passport Number              :            H3408083
+   I, hereby declare that the above information holds true up to best of  my
+   knowledge, and can be verified if needed.
+
+                                                           Shivang Rajwanshi
+

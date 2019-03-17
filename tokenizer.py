@@ -16,9 +16,9 @@ def clean_token(text):
 
 def tokenize(path):
     text = []
-    with open(str(path), 'r') as f:
+    with open(str(path), 'rb') as f:
         for line in f.readlines():
-            text.append(line.strip())
+            text.append(line.decode("utf-8", "ignore").strip())
     
     # create a list of token
     tokens = [None] * len(text)

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+    ABA AZIZ 
+     Address               : New Ashok Nagar, Delhi 
+     Passport no         : J2431672  
+     Email                   : 
+     Skype user-id     : abaaziz786
+     Contact no:         +91-8287929462
+
+                                                                            
+                                                                                                                      
+    
+ Post Applied: – Electrical Engineer / Site Supervisor
+                           Having 6 years experience
+
+
+         
+                                                    
+
+PROJECT HANDLED:	
+	
+ START CEMENT PLANT, CMCL GROUP
+        Client              : HOLTECH
+        Place               : SONAPUR, GUWAHATI, ASSAM (Client Location)
+        Environment   : Electrical Control Panel, COMPACT LOGIX1756-L73, SMART RELAY 193-EC3
+        Role                 : Project Engineer (Electrical Engineer)
+
+Responsibility: 
+Supervision of all electrical work like implement, maintains, and improves electrical Hardware, Equipment, & systems for commercial and industrial.
+Installation of Cable Trays and raceways, cable pulling, cable laying, insulation and continuity test cable for both power and control cables, installation of lighting fixtures, installation of conduits, termination of cable to specified equipments.
+Ensure that all material arriving at site meets company’s specifications and quantities as per packing list.
+Operate computer-assisted engineering and design software and equipment to perform engineering tasks. 
+Going through the scope of work and investigating on site as per drawing.
+Provide engineering support to construction and procurement depts.
+Responsible for the progress of the project should be completed successfully.
+Provide technical specification for project work outside main contractor’s scope of work.
+Participate in sub-contract management, assisting resolution of technical queries by main contractors for various projects.
+Involve in the meeting with comments regarding the projects/works.
+Network establishment on Ethernet with smart relay on network Logic development for each relay and taking each relay on network. Communication through ETAP between Ethernet & optical fibre
+ 
+NEELKANTHA ELECTROMECH (P) LTD 
+
+Company profile:
+
+This Private Limited Company having expertise in HV/EHV Tower Lines, HV/EHV Switchyards, and Electrification work of Industrial Plants, Area and Street Lighting. These services are ideally used by reputed industries in Engineering, Automobile, Chemical, Pharmaceutical, Petrol, Paper, Plastic steel and Surgical along with various Town Ships, Complexes and Premises, Malls and Hotels 
+                                   Designation : Electrical Site Engineer
+                                   Period          : May/2010 to Dec/2011
+
+                  Job Profile: 
+As an Electrical Engineer my role was to commisioning  of the system with site acceptance test (SAT) and designing, developing, installing, managing and/or maintaining electrical equipment Testing, maintaining and modifying existing systems analyzing data and presenting findings in Written reports managing operations working collaboratively with design Engineers, operation Engineers project management within cost and time.
+Troubleshooting and problem-solving
+Understanding and ensuring compliance with the health and safety regulations & quality
+Providing advice and consultancy support
+Writing computer software and test procedures
+Posses excelent command over verbal and written communications.
+Highly skilled in implementing, designing and supporting microrocessor based Smart Relays
+
+
+
+
+PROJECT HANDLED:	
+	
+               THERMOTECH SYNERGY (PVT.) LTD.
+        Client              : Bhushan steel Ltd
+        Place               : Dhenkanal Orissa (Client Location)
+        Role                 : Electrical site Engineer
+
+Responsibility: 
+Supervision of all electrical work like implement, maintains, and improves electrical Hardware, Equipment, & systems for commercial and industrial.
+Installation of Cable Trays and raceways, cable pulling, cable laying, insulation and continuity test cable for both power and control cables, installation of lighting fixtures, installation of conduits, termination of cable to specified equipments.
+Ensure that all material arriving at site meets company’s specifications and quantities as per packing list.
+Operate computer-assisted engineering and design software and equipment to perform engineering tasks. 
+Going through the scope of work and investigating on site as per drawing.
+Provide engineering support to construction and procurement depts.
+Responsible for the progress of the project should be completed successfully.
+Provide technical specification for project work outside main contractor’s scope of work.
+Participate in sub-contract management, assisting resolution of technical queries by main contractors for various projects.
+Involve in the meeting with comments regarding the projects/works.
+Network establishment on Ethernet with smart relay on network Logic development for each relay and taking each relay on network. Communication through ETAP between Ethernet & optical fibre
+
+S.K. Electronics (P) LTD 
+                                   Designation : Electrical Technician   
+                                   Period          : August/2001 to December/2003
+
+
+Job Profile: 
+                    
+Assemble, install, test, and maintain electrical or electronic wiring, equipment, appliances, apparatus, and fixtures, using hand tools and power tools
+Diagnose malfunctioning systems, apparatus, and components, using test equipment and hand tools, to locate the cause of a breakdown and correct the problem
+Connect wires to circuit breakers, transformers, or other components
+Inspect electrical systems, equipment, and components to identify hazards, defects, and the need for adjustment or repair, and to ensure compliance with codes
+Advise management on whether continued operation of equipment could be hazardous
+Test electrical systems and continuity of circuits in electrical wiring, equipment, and fixtures, using testing devices such as ohmmeters, voltmeters and Digital-meter to ensure compatibility and safety of system
+Plan layout and installation of electrical wiring, equipment and fixtures, based on job specifications
+ Install, maintain, or repair electrical wiring, equipment, and fixtures
+Prepare sketches or follow blueprints to determine the location of wiring and equipment and to ensure conformance to building and safety codes
+Use a variety of tools and equipment such as power construction equipment, measuring devices, power tools, and testing equipment including ammeters, and test lamps
+Install ground leads and connect power cables to equipment, such as motors
+Perform business management duties such as maintaining records and files, preparing reports and ordering supplies and equipment
+Repair or replace wiring, equipment, and fixtures, using hand tools and power tools
+Work from ladders, scaffolds, and roofs to install, maintain or repair electrical wiring
+Place conduit (pipes or tubing) inside designated partitions, walls, or other concealed areas, and pull insulated wires or cables through the conduit to complete circuits between boxes
+Construct and fabricate parts, using hand tools and specifications
+Fasten small metal or plastic boxes to walls to house electrical switches or outlets
+Perform physically demanding tasks, such as digging trenches to lay conduit and moving and lifting heavy objects.
+Provide preliminary sketches and cost estimates for materials and services
+
+
+
+Motors Starters (Control Circuits / Power Circuits):  
+Induction Motors, Star Delta Starters, DOL Starters, Reversing DOL starters, Remote DOL Starter, Interlocking circuits, Panel Wiring, Relays, Contactors, Thermal overload relays
+
+Drive: VFD Principle of operation and applications, Hand on hard Wiring, Operation and program 
+                            Parameters by keypad mode, remote mode (start stop, potentiometer), Controlling through PLC,  
+                         Communication with PLC and SCADA
+
+PLCs / DCS systems: 
+
+Allen Bradley: Micrologix1000, Micrologix1100, Micrologix1200, Micrologix1400, Micrologix1500, Compact Logix, Control Logix, SLC 05/03, Wiring & Troubleshooting
+Siemens-AG: 
+            Step7-200: CPU-221, CPU-222, CPU-224, CPU-224-XP, CPU-226
+            Step7-300: CPU 313C-2DP, CPU 314-DP, Wiring & Troubleshooting
+MITSUBISHI:  MELSEC-FX Series (FX0N, FX1N, FX2N), Wiring & Troubleshooting
+Programming Language (PLC) : Ladder Logic Development, Functional Block diagram
+Programming Software (PLC & HMI)  : 
+
+Allen Bradley:  RSlogix500, RSlogix5000, Panel Buider32, RSlinx
+Siemens-AG  :  Microwin, Sematic Manager, TIA
+Mitsubishi     :  GX-Developer
+SCADA Software: Wonderware (Intouch), RS View 32, Wincc sematic Applications & Development.
+
+HMI : Creating Applications, Downloading / Uploading Programs, Security in HMI, and PLC, HMI  
+                     And SCADA communication
+
+Networking: Net AIC, RS232, RS485, RS422, PROFIBUS, Ethernet, MODBUS, CONTROLNET
+
+Software Skill        : Basic knowledge in MATLAB, MS-Office, expected multiple software
+
+Language Skill       : Basic Knowledge in C, HTML
+
+Operating Sytem   : Linux Red Hat Enterprises, Windows XP/VISTA/7/8
+
+
+
+
+
+
+
+
+Project title:     Automated Car Parking System
+Project title:     Bottle filling process
+Project title:     Batch mixing process
+Project title:     Lift management system
+
+
+
+
+
+
+
+
+B.Tech degree in Electronics and Communication engineering from seemanta engieering college, Mayurbhanj under Biju Patnaik University and Technology, Rourkela, Orissa
+
+10+2 from Bihar board  
+
+Electrical and Electronics Training (ITI)
+
+
+
+Internet Surfing
+Playing Chess, Carom, and video games
+Listening music
+
+
+Nationality			        :  Indian
+
+Date of Birth	            :  22/February/1987
+
+Marital Status               :  Single
+
+Passport                      :  J2431672
+
+Languages Known         :  English, Hindi, and Urdu (Read, Write and Speak), Arabic (Read), Oriya (speak)
+
+Father’s Name              : Abdul Aziz
+
+Permanent Address        :  Sarai, Bhagalpur,
+		                   Bihar-812002
+Declaration:
+
+
+I hereby declare that all the above information is correct to the best of my knowledge and belief.
+
+
+Place: Delhi
+
+
+Date:			                                                                                (ABA AZIZ)

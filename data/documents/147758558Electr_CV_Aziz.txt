@@ -1,0 +1,396 @@
+
+|  |                           CURRICULAM VITAE                           | |
+|  |ABA AZIZ                                                              | |
+|  |MAKKAH, Saudi Arabia                                                  | |
+|  |                                                                      | |
+|  |IQAMA STATUS: TRANSFERABLE                                            | |
+|  |                                                                      | |
+|  |Email: abaaziz785@gmail.com                                           | |
+|  |                                                                      | |
+|  |Mobile: +966-581 226 638                                              | |
+
+
+
+              Post Applied: Project Engineer (Electrical Engineer) /
+Maintenance Engineer
+
+OBJECTIVE
+
+Knowledge growth a professional position in a friendly working atmosphere
+where builds my career and growth of the organization.
+
+
+SUMMARY
+
+
+    . 7 years experience in Industrial & Construction Engineering as a
+      Project Engineer/Automation engineer.
+
+    . Having good exposure on MS-Office, Power point presentation  &   Excel
+      Sheet
+
+
+    . Very good Knowledge on Computer literate & English verbal and written
+
+    . Co-ordination with consultants / Main contractor /subcontractors
+      regarding practical issues occurring during execution for clearances
+      at site.
+
+    . Review of shop drawing, coordination drawing, As-built, and single
+      line diagram
+
+    . Good exposure of electrical hardwares / Electrical goods / Electrical
+      equipments and process instrumentation.
+
+    . Electrical Switch Gears (Switches, Fuses, Ciruit breaker, MCB, MCCB,
+      Relay, Contactor, Mechanical Timer, Over load relays, Smart relays)
+
+    . Process Instrumentation (RTD, thermocouple, transmitter, thermostat,
+      transducer, Proximity Sensors)
+
+    . Electrical wiring design of Motor Control Circuits  &  power  circuits
+      Starters (DOL starter, Remote DOL starter, Star delta starter, Reverse
+      DOL Starter), Interlocking Circuit
+
+    . Callibration of Tempreture Sensors Like RTD, Thermocuple, Transmitter,
+      Transducer, PLC
+    . VFD Principle of operation and applications, Hand on hard Wiring,
+      Operation and program
+            Parameters by keypad mode, remote mode (start stop,
+potentiometer), Controlling
+            Through PLC, Communication with PLC and SCADA
+
+    . Ladder Logic devoloper for PLC (Siemens, Allen bradley, Mitsubishi)  /
+      DCS System
+
+
+    . Design and development of SCADA System with Device & Data Base
+      Connectivity
+
+    . Design and development of HMI (Human Machine Interface) Communication,
+
+
+
+    . Coordination and give instructions to site supervisors /foreman for
+      all execution of site works (1st fixture, 2nd fixture & 3rd fixture)
+      ensure that all site works done are as per Schedule in according to
+      all applicable quality standards.
+
+    . Preventing  and  condition  based  maintenance  planning,  scheduling,
+      implemainting of jobs  and Lock out Tag out Procedure
+
+    . Basic knowledge on AutoCAD, Matlab and Kapserver
+
+EDUCATION                                                     QUALIFICATION:
+
+
+
+
+Bachelor of Technology Engineering  (B.tech)  with  First  Class  from  Biju
+Patnaik University and Technology, Orissa
+
+
+PROFESSIONAL SKILLS
+
+Software                     : Basic knowledge in MATLAB, Microsoft  Office,
+auto CAD.
+
+Operating Systems     : Windows XP/VISTA/7, Linux Red Hat Enterprises
+
+
+CORPORATE TRAINING
+
+    . Industrial Automation Engineering
+    . Vocational training in BSNL (BHARAT SANCHAR NIGAM  LIMITED,  Govt.  Of
+      India)
+
+
+PROFESSIONAL EXPERIENCE
+
+
+
+
+       M/s Saudi Binladin Group (BTC)                              May  2014
+      to till date
+
+       Project Engineer
+
+
+
+
+Working as a Project Engineer of the custodian of the two holy mosques King
+Abdullah bin
+Abdul Aziz project SHAMIYA new Abdullah Expansion project
+
+Project Handling: SHAMIYA THIRD EXPANSION, MAKKAH
+
+Consultant         : DARAL.HANDASAH
+
+ Place                : Holy Mosque (Haram)
+
+ Role                  : Project Engineer
+
+
+
+
+Job Responsibilities:
+
+
+ Project Co-ordination with client  and  sub-contractors,  Site  supervision
+and Inspection of Site
+
+
+ . Contact of supplier regarding quotations of Materials.
+ . Familiar with shop drawings and as built Drawing.
+ . Follow-up the Shop Drawing and consultant Instruction.
+ . Installation of Conduits, PVC, EMT, Cable Trays, raceways and cable
+   pulling
+
+ . Preparation, take of material as per required drawing.
+ . Dealing with Sub- Contractor & check their work as per drawing.
+
+
+ . Attend the weakly Site Meeting to update site work with actual plan.
+ . Responsible for Quality Assurance for execute the work.
+ . Timely planning the material and man power to site completion.
+
+   Managing large group of workers and sub-contractors
+
+ . Day to day reporting to P.M
+ . Estimate Bill of Quantities (BOQ)
+
+
+
+
+
+
+
+
+
+
+PROFESSIONAL                                                         HISTORY
+
+
+
+   1) M/S Sofcon Group Ltd. (Rockwell Automation)            January 2012 to
+      March 2014
+
+      Project Engineer
+
+
+As an Automation Engineer   my  role  is  to  Design,  develop,   test,   or
+supervise  the   manufactured    installation   of   electrical   equipment,
+Instruments, PLC, SCADA, Drives,  Electronics  components,  or  systems  for
+commercial, industrial provides  control  logic,  Ladder  Logic,  HMI  logic
+development, program commissioning, Wiring & Troubleshooting of  the  system
+with site  acceptance  test  (SAT).  Direct  and  coordinate  manufacturing,
+construction,  installation,  maintenance,   support,   documentation,   and
+testing activities to ensure  Compliance  with  Specifications,  codes,  and
+customer requirements.
+
+            PROJECT HANDLED:  STAR PLANT
+            Consultant:               HOLTECH
+            Client:                      CMCL GROUP
+            Place:                       SONAPUR,  GUWAHATI,  ASSAM  (Client
+Location)
+             Environment:             Electrical  Control   Panel,   COMPACT
+LOGIX1756-L73, SMART RELAY
+            Role:                         Project Engineer
+
+        Responsibility:
+
+    . Manage all Electrical, Instrumentation & Control System Hardware and
+      software record and Training of operator and technician in IPC
+
+
+    . Develop Ladder Logic (LAD) & Network establishment  on  Ethernet  with
+      smart relay network Logic development for each relay and  taking  each
+      relay on  network.  Communication  through  ETAP  between  Ethernet  &
+      optical fibre
+
+    .  Ensure  that  all  material  arriving   at   site   meets   company's
+      specifications and quantities as per packing list.
+
+    .  Operate  computer-assisted  engineering  and  design   software   and
+      equipment to perform engineering tasks.
+
+    . Going through the scope of work  and  investigating  on  site  as  per
+      drawing.
+
+
+
+
+    . Provide engineering support to construction and procurement depts.
+
+
+
+
+    . Responsible for the  progress  of  the  project  should  be  completed
+      successfully.
+
+
+
+
+    .  Provide  technical  specification  for  project  work  outside   main
+      contractor's scope of work.
+
+
+
+
+    . Involve in the meeting with comments regarding the projects/works.
+
+
+
+
+
+   2) M/S NEELKANTHA ELECTROMECH (P) LTD                May 2010 to December
+      2011
+
+       Site Engineer
+
+
+
+
+    . As a Site Engineer my role was  to  supervise  the  system  with  site
+      acceptance test (SAT) and designing, developing, installing,  managing
+      and/or  maintaining  electrical  equipment  Testing,  maintaining  and
+      modifying existing systems analyzing data and presenting  findings  in
+      Written  reports  managing  operations  working  collaboratively  with
+      design Engineers, operation Engineers project management.
+
+    . Troubleshooting and problem-solving
+
+    . Understanding and ensuring  compliance  with  the  health  and  safety
+      regulations & quality
+
+    . Providing advice and consultancy support,  Writing  computer  software
+      and test procedures, Posses excellent command over verbal and  written
+      communications.
+
+    .   Highly   skilled   in   implementing,   designing   and   supporting
+      micrporocessor based Smart Devices
+
+
+
+
+   3)                  S.                  K.                    Electronics
+          August 2001 to December 2003
+
+      Supervisor
+
+            Job Profile:
+
+    . Supervise all Installation of work, monitor the manpower and
+      reporting.
+
+      TECHNICAL SKILLS
+
+
+
+
+    . Motors Starters Electrical Circuit Design (Control  Circuits  /  Power
+      Circuits):
+
+      Induction Motors, Star  Delta  Starters,  DOL  Starters,  Reverse  DOL
+      starters, Remote DOL Starter,  Interlocking  circuits,  Panel  Wiring,
+      Relays, Contactors, Thermal overload relays
+
+    . Process Instrumentation:  RTDs,  Thermostat,  Thermocouples,  Level  &
+      Proximity Sensors,
+         NPN sensor, PNP sensor, Ultrasonic sensor, Transmitter, flow meter,
+   Float sensor Callibration
+          of  Tempreture  Sensors  Like   RTD,   Thermocuple,   Transmitter,
+   Transducer, PLC
+    . PLCs / DCS systems:
+    V  Allen  Bradley:   Micrologix1000,   Micrologix1100,   Micrologix1200,
+      Micrologix1400, Micrologix1500,  Compact  Logix,  Control  Logix,  SLC
+      05/03, Wiring & Troubleshooting
+
+    V Siemens-AG:
+
+                       Step7-200: CPU-221,  CPU-222,  CPU-224,  CPU-224-XP,
+           CPU-226
+
+                        Step7-300:  CPU  313C-2DP,  CPU  314-DP,  Wiring  &
+           Troubleshooting
+
+    V  MITSUBISHI:   MELSEC-FX  Series  (FX0N,   FX1N,   FX2N),   Wiring   &
+      Troubleshooting
+
+    . Programming Language (PLC) : Ladder Logic Development
+
+
+    . Programming Software (PLC & HMI)  :
+    V Allen Bradley :  RSlogix500, RSlogix5000, Panel Buider32, RSlinx
+
+    V Siemens-AG  :  Microwin, Sematic Manager, TIA
+
+    V Mitsubishi      :  GX-Developer
+
+    . SCADA Software:  Wonderware  (Intouch),  RS  View  32,  Wincc  sematic
+      Applications & Development.
+    .  HMI  :  Creating  Applications,  Downloading  /  Uploading  Programs,
+      Security in HMI, and PLC,
+                HMI and SCADA communication
+    . Networking: Net AIC, RS232, RS485, RS422, PROFIBUS, Ethernet,  MODBUS,
+      CONTROLNET
+    . Drive: VFD Principle of  operation  and  applications,  Hand  on  hard
+      Wiring, Operation and program Parameters by keypad mode,  remote  mode
+      (start stop, potentiometer), Controlling Through  PLC,   Communication
+      with PLC and SCADA
+    . Software Skill        : Basic knowledge in MATLAB, MS-Office, expected
+      multiple software
+    . Language Skill       : Basic Knowledge in C, HTML
+    . Operating Sytem   : Linux Red Hat Enterprises, Windows XP/VISTA/7
+    . Very good Knowledge on Computer literate & English verbal and written
+
+
+      ACADEMIC PROJECT DETAILS
+
+
+      Project title:     Automated Car  Parking  System,  Bottle  filling
+      process, Batch mixing process
+
+
+
+
+    ACHIEVEMENTS AND EXTRA CURRICULAR ACTIVITIES
+
+
+
+
+    . National Cadet Corps of 4-Bihar  Battalion  NCC  &  Awarded  Annual
+      Camp Certificate.
+
+    . College Runner-up in Chess and Carom.
+
+
+
+
+    PERSONAL DETAILS
+
+                Nationality:   Indian                              Date   of
+   Birth:  22 February 1987
+               Passport:     J2431672                        Marital Status:
+    Single
+               Passport  issued:  19/07/2011             Passport  Validity:
+   18/07/2021
+               Languages Known:  English, Hindi  &  Urdu  (Read,  Write  and
+   Speak), Arabic (Read, Write)
+               IQAMA STATUS: TRANSFERABLE
+
+
+
+            Declaration:
+
+
+           I hereby declare that all the above information is correct to
+the best of my knowledge and
+
+
+           belief.
+
+           Place: MAKKAH
+
+                                                                       Date:
+                                           (ABA AZIZ)              [pic]

@@ -1,0 +1,164 @@
+
+CURRICULUM VITAE
+
+Ikram Rasheed
+Gandhipura Road,
+LAKHERI-323 603
+Distt.-Bundi(Rajasthan)
+Contact:+919729064587,+919254837282
+E-mail:ikram.rasheed@gmail.com
+      instlke@gmail.com
+
+OBJECTIVE:
+To obtain a challenging career in the field of Instrumentation Engineering,
+where I can utilize my Engineering skills to the best of my abilities and
+at the same time learn new emerging technologies with a professionally
+managed company fulfilling mutual requirements and to build a successful
+carrier in engineering.
+
+ PROFESSIONAL SUMMERY:
+Currently working as a Senior Production Associate-Instrumentation in
+GlaxoSmithKline
+      Consumer Healthcare Ltd.,Sonepat (Haryana) since 10th Dec. 2007.
+      GSK C H Ltd., Sonepat is a ABB SattLine based Modern Continuous
+      Process Plant for manufacturing 'Horlicks (Nutritional Drink specially
+      for 'Growing Children').
+      Plant is designed and commissioned by Alfa Laval and field
+instrumentation is of E&H.
+
+Previous-1
+   Worked with SRF Limited,Malanpur(M.P.) from 16th Aug 2004 to 07th Dec.
+   2007 as a Sr. Instrumentation Technician.
+   SRF Limited is an ISO-9002, ISO-14001,OHSAS Certified & Deming Prize
+   winner DCS Automated Continuous Nylon 6 Polymerization Process plant.
+Previous-2
+   Worked in Moser Baer India Ltd.,Greater Noida as a Maintenance Technician
+   from 21st Aug.,2003 to 9th Aug.,2004.
+Previous-3
+   Worked as an Instrumentation Technician with Welspun Syntex Ltd., Rakholi
+   (U.T. of Dadra & Nagar Haveli) from 6th June 2001to 13th Aug.,
+   2003.Worked in New Spinning Plant Project.
+Previous-4
+   Worked as an Instrumentation Technician in 3 projects of Erection and
+   Commissioning with Project Consultants in Poly Aluminum Chloride Project,
+   DSCL, Kota (Raj.), & R.A.P.P.-3& 4, Rawatbhata (Raj.) & Samcor Glass
+   Ltd.,Kota(Raj.)
+
+TECHNICAL SKILLS:
+Carried Out following activities in field like.....
+    V Preventive Maintenance
+    V Breakdown Maintenance
+    V Shutdown Maintenance
+    V Installation, Calibration & Commissioning
+    V Fault finding & Trouble Shooting
+    V Termination & Loop Checking
+    V Servicing & Repair
+    V Installation Supervision
+
+
+
+Hands-on -Experience on following Instrumentation System.................
+          . Transmitters right from Pneumatic to SMART
+            (Rosemount,Yokogawa,E+H)
+                 Flow-Coriolis Mass Flow,Magnetic,Vertox,DPT,t-Mass
+                 Level- PT,Displacer,Ultrasonic,Radar,
+                 Temperature,Pressure & DPT
+                 Solid,pH Transmitter
+          . Installation and PID tuning of Loop Controllers (Yamatek
+            Honeywell, ABB)
+          . Control Valves: IL,MIL,SAMSON
+          . On-Off Valves,Actuators,Motorized Valves ,Senetory Remote
+            Control Valves,Solenoid Valves
+          . All Types of Level/Temperature/Pressure & Flow  Switches
+          . Object/Proximity Sensors:Indutive,Capacitive & Photo
+          . Weighing Scales,Weigh Transmitters(Nova Weigh) & Loss-in-Weight
+            systems(K-Tron)
+          . Automation:DCS Toshiba V Series,ABB SattLine(with 3500
+            I/Os),PLCs-Allen Bradley SLC & Micrologix,Siemens,Yaskawa
+          . Power Automation:AC Drives(Yaskawa616HI,Yaskawa G3 /G7 / F7/V7
+            models, Siemens MM440),ABB
+          . I/P & P/I Converters (Bells & ABB),Freq. to Volt/Current (Speed)
+            Converters & Isolators.
+          . Knowledge of Instruments Symbols,P&ID and wiring drawings.
+          . Recorders & Scanners.
+          . HART 275,mA/mV Sources(Masibus)
+
+ACHIEVEMENTS:
+      . Completed Process Modification Project in GSK.
+      . Worked in Polymerization & Spinning plant expansion project in SRF.
+      . Worked to integrate all analog loops and PLCs to Visualize
+        centrally on SCADA in Utility Section in SRF.
+      . Active member of Quality Control Circle in SRF.
+      . ISO Documentation.
+
+ACADEMICS QUALIFICATIONS:
+    > Secondary School (10th ) Examination Passed with 67% of marks from
+      Board of Secondary Education,Rajasthan in the year 1993
+    > Senior Secondary School(12th ) Examination Passed with 54% of marks
+      from Board of Secondary Education,Rajasthan in the year 1996.
+    > B.A. (English,Sociology & Public Administration) from Kota
+      University,Kota (Raj.) in the year 2004.
+
+
+TECHNICAL QUALIFICATIONS :
+    > Passed ITI in Instrumentation in the year 1998 with 74% of marks from
+      Board of Technical Education Rajasthan, Jodhpur (Raj.).
+    > Passed 71st National Apprenticeship Examination in Oct., 1999 securing
+      1st position in state.
+    > Diploma in Electronics & Communication Engg. from IASE University,
+      Sardarshahar, Churu (Raj.)
+    > Pursuing my PGDCA from Punjab Technical University  through Distance
+      mode.
+
+
+
+
+TECHNICALTRAININGS :
+      . SCADA Wonderware-Intouch7 programming and PLC programming  of  PLCs
+        of Siemens S7-300, Schneider, Allen Bradley from IITP Noida.
+      . Two weeks Training in 'PLC  Programming  &  its  Application'  from
+        Advanced   Training   Institute   for   Electronics    &    Process
+        Instrumentation (ATI-EPI), Hyderabad (A.P.) in the year 2003.
+      .  Training  on  Field  Instrumentation  Principle,   Maintenance   &
+        Troubleshooting by E&H from 23/03/09 to 24/23/09 in GSK.
+
+Other TRAININGS :
+      . Safety
+      . Permit To Work
+      . Lock Out Tag Out (LOTO) for PTW system
+      . Emergency Response Plan
+      . EHS
+      . TQM
+      . QMS
+      .  HACCP
+      . Operation Excellence
+      . Quality Leadership Edge
+      . Empowerment
+
+COMPUTER KNOWLEDGE:
+    > MS Windows, MS office (Word, Excel, Power Point), Internet.
+    > Language'C'
+    > AutoCAD 2007 (2D/3D) training from CAD ZONE, Sonepat (Haryana)
+
+SOFT SKILLS:
+    . Ability to re-adjust in any work situation
+    . Ability to work in multi-cultural atmosphere
+    . Attitude to share information & new knowledge
+    . Analytical and independent thinking
+
+
+PERSONAL PROFILE:
+      Father's Name          :     Mr. Abdul Rasheed Pathan
+      Date of Birth          :     20th Jan 1978
+      Languages Known  :     English,Hindi
+      Marital Status         :     Married
+      Passport No.           :     H4028152 Valid up to 2019
+      Contact Address  :     Gandhipura Road,
+                            LAKHERI-323 603
+                            Distt.-Bundi(Rajasthan)
+      Field of Interest      :     Erection & Commissioning
+
+
+
+Date:                                        (IKRAM RASHEED)
+[pic]

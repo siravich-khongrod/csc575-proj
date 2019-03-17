@@ -1,0 +1,64 @@
+RESUME
+
+
+MOHAMMAD AFZAL
+Mob.:  09808334755, 9412130620
+Email: afzalgada@gmail.com
+
+
+Extensively contribute to the growth of the organization where I would be working, and find a challenging position where I can leaverage upon skills that I have acquired during my work and education and thus in turn lead to the betterment of myself and the organization.
+
+
+
+
+MS Group Ltd. (8 DEC 2014 to Till date)
+Project Name : RELIANCE 4G INSTALLATION
+Ist Phase (ALCATEL):			Client: Reliance Jio Infocom Ltd.
+Installation of ODC Cabinet
+Installation of SMPS, Battery Bank, battery Management System
+Providing Power Supply from ACDB through a separate Energy meter.
+Installation of GSM Pole mount and providing required grounding of all the equipments.
+Tower Grounding Bar (TGB), Inner Grounding Bar (IGB) & Outer Grounding Bar (OGB).
+Cabling and providing interconnection of all the required equipments being used for 4G Infrastructure.
+Commissioning of all the equipments being installed.
+2nd Phase (SAMSUNG):		Client: Reliance Jio Infocom Ltd.
+Installation of GSM Antenna (e-node B) & GPS
+Installation of CISCO Router/ Moderm & CDU
+Installation of RRH ODU & IDU
+ODC Cabinet
+2. 	HARRYP CORE INDIA (July 2014 to Dec. 2014)
+Project Name: BSNL 2G & 3G INSTALLATION
+1ST Phase (ZITE):			Client : BSNL
+Installation of ZTE BTS
+Installation Radio Supply Unit (RSU 82, RSU 60E, RsU40) for 900, 1800 MHz & UMTS
+2100 MHz
+Installation of Baseband Unit (BBU) including UBPG & BPK Cards, FS & CC Card Fault check, Fanning Unit & Power Module Fault check.
+Jumper Cable swapping of 2G & 3G Quality Check including labeling tags check.
+Commissioning of the BTS using RJ45 Cable (IP Link) or NEC Ipasolink for Minilink.
+Onsite Maintenance of alarms & troubleshooting it & finally hard swapping ericsson BTS.
+
+2nd Phase (Ericsson):			Client : BSNL
+Installation of Ericsson BTS
+PCM through from BSNL TE & EI link from site.
+Alarm clearance & VSWR check using calibration.
+Starting the BSNL Network.
+
+
+Name			:	MOHAMMAD AFZAL
+Date of Birth		:	15th Nov. 1989
+Father’s Name		:	Mr. Mohammad Qurban
+Gender 			:	Male
+Marital Status		:	Single
+Nationality		:	Indian
+Languages Known	:	Hindi & English
+Permanent Address	:	Village Dabki Junnardar Bajoria Road,
+				Distt- Saharanpur (UP) 247001
+
+
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+
+
+Date:
+Place: Saharanpur						   	   (MOHAMMAD AFZAL)

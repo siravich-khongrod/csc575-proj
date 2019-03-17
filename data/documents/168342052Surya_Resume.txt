@@ -1,0 +1,117 @@
+SURYA PRATAP MALL                                                      
+Email: contactsurya.mall                                                                                              
+Contact:  +91-9555 917 888
+           Aspiring to excel in the field of networking as an Administrator or Engineer, in an organization of repute.  
+
+                                                          (MCP & CCNA Certified)
+
+To obtain a challenging and rewarding position in Network Administration with an organization this recognizes my true potential and provides me sufficient avenues for professional growth through nurturing my technical skills and competencies.
+
+Passionate, diligent and focused Engineer with 6+ years of cumulative experience as a Network Engineer L1/IT Administrator / Desktop Support Engineer.
+Technical knowledge & proficiency in system administration, network maintenance, hardware maintenance, operating systems, Linux, Windows (All versions) & MS- DOS and the willingness to learn and effectively apply new technologies.
+Analytical thinker, consistently resolving ongoing issues, often called upon to consult on problems that have eluded resolution by others.
+Extensive exposure to a comprehensive range of team activities, thrive on working in challenging environment.
+Demonstrated problem analysis/ resolution skills, ability to troubleshoot, solve problems quickly & completely.
+
+Networking:
+Network processing, centralized and distributed network connection
+Installing, configuring and administering network technologies
+Ample knowledge in Windows XP \2007\2008 \ 2003 Server
+Active directory management, NTFS security, disk quota management
+Good understanding of OSI Model, TCP/IP protocol suite (IP, ARP, ICMP, TCP, UDP, FTP, TFTP)
+Well understanding of Bridging and switching concepts and LAN technologies
+Extensive knowledge of Network System Engineering methods
+IP addressing and subnetting, Routing concepts
+Sound knowledge of routing protocols - RIP V1/V2, OSPF, IGRP & EIGRP
+Switches: Basic Configuration & VLAN setup on Cisco 1900, 2950, 2960 Switches.
+Router: Basic Configuration & monitoring of Cisco 2500, 2600, 1800
+VLAN: configuration, switching and Inter-VLAN Routing.
+Back-up and restore of all critical resources, including router & switches IOS, Outlook, DHCP, DNS
+Functioning knowledge of wan solution, protocol HDLC,PPP
+Well working acquaintance with the Linux environment
+Working knowledge of, DHCP Server, DNS Server, Proxy Server on Linux and windows
+Security administration port security on switch and IP security on Router via Access list
+Setting up Secure NFS Servers with multiple Clients for File and Disk sharing.
+Configuring NIS Servers for Centralized and secure Password and Login Management
+Linux user management, creating, changing group, and assign permission on resources
+
+Hardware:
+Computer assembling and maintenance.
+Troubleshooting hardware and software problems.
+Installing and configuring the peripherals, components and drivers.
+Installing software and application of user standards.
+
+SEVENHILL C&I PVT LTD, GURGAON                                                          JANUARY2015 to TILL DATE  
+
+Responsibilities: 
+Joined organizes an on 24 January 2015 as a Network Engineer L1.
+I handle all critical network resources, including the Cisco 2950, 2960 Switches & Cisco 2500, 2600, and 1841 router.
+Configuration of Routed Protocols - EIGRP, IGRP, OSPF, VLAN, BGP.
+Troubleshooting on LAN/WAN and VPN tunnel issues.
+Troubleshooting end user Wi-Fi or Wireless issues.                 
+
+VERIFACTS SERVICES PVT LTD (A MORDEN INDIA) GURGAON       APRIL 2011 to JANUARY 2015
+
+Responsibilities:
+Joined organizes an on 4 April 2011 as an IT Administrator.
+I have successfully managed more than 40 users and 4 Servers. 
+Responsible for monitoring and controlling of LAN, WAN systems.
+Handle the tasks of configuring and deploying wireless solutions. 
+Installing, configuring, upgrading & troubleshooting, Server, Desktop, Network Printer, wireless network devices.
+Managing system administration, networking and hardware management & maintenance in the organization.
+Installing and maintaining network and data communication hardware and software environment.
+I had resolved all major issues like login error, printing dilemma, and connectivity problem.
+Maintaining Active directory including security domains, user profiles & other resources on the network.
+Configure and manage Microsoft Outlook 2003/2007/2010, DNS, DHCP, Thunderbird, Anti-Viruses, Sonic Firewall.
+Installation, configuration and Administration of Windows XP/Win 7/ Win 2008/ Win 2003 Server/ Fedora, Ubuntu, Linux mint, Red hat Linux. 
+The File Server used for assigning space to users for their important data & backup of their folders.
+Server management was added in my profile on 1 Jan 2012
+Server management, controlling unauthorized access from users to companies critical resources.
+From 1 Jan 2014 Cisco device management was added to my job profile.
+ROTEXS CONTROL, NOIDA                                                                                 APRIL 2009 to MARCH 2011
+Responsibilities:
+Joined organizes an on 2 April 2009 as a Desktop Support.
+Assembling and Maintenance of Desktop machines.
+Detecting and resolving critical Hardware and OS failure.
+Installation of various OS like Windows XP/Vista/07/08.
+Installation of Third Party Software like MS-Office 2003,  Adobe Suite, Corel Suite, etc.
+Configuring and Maintaining LAN networks using HUBs, Switches, UTP cables, etc.
+Responsible for the installation of Operating System, application software & General fault finding of software, & hardware.
+
+
+
+MCA –     PTU University (Pursuing Final Semester) 2015
+B. A –        DDU University 2006
+XII –         UP Board, Allahabad 2002
+X –            UP Board, Allahabad 2000
+CCNA –   Cisco Certified Network Associate (Cisco ID: 11468048)
+MCP –      Microsoft Certified Professional (Microsoft ID: 5443331)
+DCHN –   Diploma in Computer Hardware & Networking
+DCA –      Diploma in Computer Application
+
+
+
+
+Date of Birth	             :         10 August 1985
+Marital Status	             :         Single 
+Gender 		             :          Male
+Nationality	             :          Indian 
+Passport No.                     :          J1074221
+Language Known             :          English, Hindi
+Mobile Number	             :          +91- 9555917888
+Permanent Address          :          Dist. - Deoria (U.P.) 
+Pageant Address              :           Chand Singh Complex, II Floor, PNB Gali, Sector 17C, Gurgaon- 122002
+
+
+
+
+I hereby declare that the above mentioned information is correct to the best of my knowledge.
+
+
+Date: ………
+Place: Gurgaon                                                      				                   (Surya Pratap Mall)   
+
+
+
+
+	

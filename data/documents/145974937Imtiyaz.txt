@@ -1,0 +1,100 @@
+      CURRICULUM VITAE
+ IMTAYAZ AHAMAD				   	        
+ Mobile: 9958858740, 9582447125
+   E mail:  
+ Address: F30/1A Riz Apartment, Shahin bagh, Delhi           
+CAREER OBJECTIVE
+To work with dedication and honesty for a challenging job where I could apply my skills and capabilities for my overall personality development and for the growth of organization
+WORKING EXPERIENCE
+    SUPER CONTROL AND AUTOMATION, FARIDABAD 
+Job Profile: (January-2013 to Present)
+My job profile is an Automaton Engineer
+Role and Responsibilities:                                                                                                                   
+PLC Programming and Troubleshooting, HMI / SCADA designing and PLC Interfacing.
+
+Programmable Logic Controller: (Allen Bradley, Siemens, Mitsubishi, Delta) Ladder & Logic Development Wiring and Troubleshooting.
+   
+PLC Programming, hardware & Architecture, Wiring different field devices to PLC, Creating application with programming software, Upload/Download, Monitoring of programs, Forcing of I/Os, Fault finding, Troubleshooting & documentation, Monitoring/Modifying data table values, Communication with SCADA software, hands on experience on real time applications.
+   
+Supervisory Control & Data Acquisition (Wonderware-Intouch, RSView32): Creating new SCADA project, Creating database of tags, Creating & Editing Graphic display, attaching controls, to graphic objects, Sizing, blinking, Filling, Analog Entry, Movement of objects, Visibility, Real time &Historical, Creating Alarms & Events, Application of Scripts, Communication with PLC/Excel/different protocols, Net DDE Communication, Fault finding/Troubleshooting.
+   
+Human Machine Interface (panel View 300 Micro, Delta, Proface): Getting started with HMI, Creating applications, Creating Tags, Downloading/Uploading programs, Creating Alarm Messages, Communication with PLC, Fault Diagnostics.
+   
+Distributed Control System (Hollysys) DCS Application, Hardware processor, I/O Modules, Communication, Bus Redundancy, and Hands on practical on Networking of PLC.
+
+Industrial Networking: Network Topologies & their importance, DH485, Ethernet, Device net, Control-net, Modbus, Prophibus, Fieldbus, Hands-on practical on Networking of PLC.
+			     ADVANCE TECHNOLOGIES, FARIDABAD 
+    
+   
+
+
+Job Profile: (July 2012 to December-2013)
+My job profile is an Assistance of Automaton Engineer
+Role and Responsibilities
+PLC Panel wiring/Installation, VFD panel configuration and wiring, VFD PLC interfacing, HMI PLC interfacing, Power and control wiring, Field wiring and instrument testing, Panel and circuit design on AutoCAD.                                                   
+Programmable Logic Controller: PLC wiring and Troubleshooting, Wiring different field devices to PLC, Ladder/logics program Uploading/Download, Forcing of I/Os, Fault finding, Troubleshooting & documentation, Monitoring/Modifying data table values, Communication with SCADA software, hands on experience on real time applications.
+Human Machine Interface: Creating applications, Creating Tags, Downloading/Uploading programs, Creating Alarm Messages, Communication with PLC, Fault Diagnostics.
+Variable Speed Drive:  VSD programming, Energy saving concepts, control & Power drawings, Switchgears & accessories, Electrical Protection involve in panels, Earthing and Electrical noise, Load management (connected load running load, load factor, Indications, Ammeters, Voltmeters, PF & KW meters), Preparation of general arrangement diagrams, Bus bar, Sizing preparation of power & control circuits. General wiring guidelines/practice, Maintenance & troubleshooting of control circuits live panels.
+   
+   
+Motors/ Starters/ Control Circuits: AC/DC Motors operation and limitations, AC/DC Drives  Applications, Designing motor control circuits, Starters-(DOL, Star-Delta, Auto Transformer) Interlocking, Inching and Reversing, Criteria for Drives Selection, Parameter programming, Designing of Drives Control panel, Communication with PLC, Fault finding/Troubleshooting.
+   
+   
+
+Process Instrumentation: Instruments selection criteria and guidelines, Temperature measurement (RTD, Thermocouple and Thermistor), Flow sensor, Pressure sensor, Level sensor, Proximity sensors, Instrument transformers (CT, VT), Process controllers, Position sensors, Photoelectric sensor, Proximity sensor, Encoders, Flow measurement, Pressure measurement , Level measurement,  Load measurement, Load cells, Solenoid valves, Control valves, Smart transmitters, Instrument transformers (CT, VT), Process controllers (On-off, Proportional, PID).
+   
+   
+      
+
+Knowledge of panel design: contactor sizing, load calculation, bus-bar sizing, panel protection etc. Relays, Contactors, Thermal overload relays.
+EDUCATIONAL QUALIFICATION
+B.Tech in Electronics and Communication Engineering from IIMT College of Engineering, Greater Noida affiliated to Uttar Pradesh Technical University year 2012
+Diploma in Electronics and Communication from Hanswahini Institute of Science and Technology, Allahabad affiliated to Venayka Mission University year 2007.
+Matriculate from CAV Inter College, Allahabad affiliated to Uttar Pradesh Board, year 2004.
+PROFESSIONAL TRAINING 
+	       	     	    SOFCON INDIA PVT. LTD. Noida, India.
+Industrial Automation Engineer training from 14 October 2014 to 13 January 2015 covering: 
+ PLC        SCADA        HMI          DCS         AutoCAD         VFD        PANEL DESIGNING          
+ PROCESS INSTRUMENTATION        INDUSTRIAL NETWORKING
+PROJECTS
+Automatic Bottle Filling Plant project using PLC and SCADA.
+                  
+PLC and SCADA based Automatic Traffic Light Control System. 
+      My role was PLC programming and SCADA designing
+SUMMARY OF SKILLS
+Technical skill:
+PLC
+Allen Bradley: (micrologix1000, 1100, 1200, 1400), SLC 503, Mitsubishi: (GX Developer),
+Siemens: (200, 300, 400) Step7 microwin, Sematic manager, Delta: (WPL Soft 2.30) 
+SCADA
+Wounderware: (InTouch), Rockwell: (RSView32) 
+HMI
+Allen Bradley: panel View 300 Micro, Delta: DOP Soft, Proface: GP4000 Series.
+DCS
+Hollysys: Rs logix5000
+Computer skill:
+Knowledge of Microsoft office, drawing on paint. 
+                  
+Knowledge of computer hardware, Software installations and Internet application.
+   
+Electrical drawing on AutoCAD software, and also use SAP application software.
+Personal Profile:
+Average communication skills
+   
+Strongly analytical and problem solving skills.
+   
+Self-motivated, self-confident and quick learner.
+   
+I have ability to work independently as well as team player
+HOBBIES	
+      Playing Cricket and Chess, Listening Music’s, Watching Movies, Driving Bike.
+PERSONAL DETAIL	
+Date of birth				:	5th August 1988	
+Mode of communication		:	Hindi, English (Read/Write/Speak)
+Father’s name				:	Salauddin
+Passport number			:	M3713671
+Place of issue				:	Lucknow
+Date of passport issue and expiry	:	19/11/2014 and 18/11/2024
+ I herewith confirm that all the above data are exact and correct to my knowledge.
+
+ Place: Shahin bagh, Delhi								Imtiyaz Ahamad

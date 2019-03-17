@@ -29,10 +29,13 @@ def generate_index():
     resume_files = get_file_names()
     inverted_index = defaultdict(list)
     length_index = defaultdict(list)
+    f = open("./logs",'w')
     for file in resume_files:
         try:
             make_index(tokenizer.tokenize(file), file, inverted_index, length_index)
         except:
             print("warning: "+file+" not indexed")
+            f.write(file+'\n')
+    f.close()
     write(inverted_index,length_index)
     print ("Indexes generated")

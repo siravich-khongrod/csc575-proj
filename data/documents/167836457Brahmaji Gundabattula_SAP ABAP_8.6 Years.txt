@@ -1,0 +1,295 @@
+
+                                                       Brahmaji Gundabattula
+                                                                   Hyderabad
+                                                                     , India
+                                                    Mobile:  +91 996395 4938
+                                                                      EMail:
+                                                   brahmaji.abap.k@gmail.com
+
+
+Professional Summary & Technical Skills:
+    .  A  performance  &  goal  oriented  SAP   and   Software   Engineering
+      professional  with  overall  8.6  years  of  experience  in   Industry
+      Standards SAP ABAP and SAP SRM ABAP
+    . Have worked functional area SD/MM/FI/PP and FSCM.
+    . Involved in end-to-end  Projects  Implementation,  Roll  out,  Design,
+      Maintenance and Support
+    . Presently associated with IGATE, Hyderabad as Technical Lead
+    .  Strong  solution  centric  approach,  with  process  orientation;  an
+      effective communicator with  excellent  analytical,  problem  solving,
+      organizational abilities and flexible attitude
+    . Good exposure to working in well diversified and  multi-cultural  work
+      environments
+    .  Experience  on  Industry  Exposure  with  ABAP  and   SRM   ABAP   in
+      Manufacturing, Pharmaceuticals, Consumer Goods and Services and  metal
+      manufacturer.
+    . Thorough knowledge on different SAP Versions 4.6c, 4.7, 5.0, ECC6.0.
+    . Involved in the Design, Construction Phase, Build & Test Phases,  Fit-
+      Gap Analysis Process Design Documentation etc and  Performance  Tuning
+
+
+    .  Development  of  FSCM  -  Credit  management,   In-House   Cash   ALE
+      Configurations
+    . Customization  and  Enhancements  like  user  exits,  customer  exits,
+      BAdI's, and implicit & explicit enhancement
+    . Experience in the development of  File Inbound and Outbound Interfaces
+    . Hands on experience on BTE and validation rules in Fi
+    . Implementation of Layout  sets  and  Print  (driver)  programs  (Smart
+      Forms), Scripts, Adobe forms
+    . Proven experience in conversion programs BDC, LSMW and BAPI, RFCs.
+    . Working experience in Workflows.
+    . Strong knowledge on ALE/IDOCS interface,
+    . Working experience in Dialog Programming, Web Dynpro.
+    . Having Knowledge on  SAP BOBI
+    . Creating Custom Transactions and Table Maintenance for  Custom  tables
+      and Custom Development text
+    . Managed activities of TMS, for movement of transport requests from DEV
+      to QA, and Production systems.
+    . Collaborate with team members and senior  officials  for  the  project
+      development
+
+
+Competency Sphere
+
+   ?   Software   Development   /   Analysis           ?      SAP   ABAP/SRM
+   Implementation
+   ?  Project Maintenance & Support                 ?      ABAP  Methodology
+
+
+   ?   Process   Improvements   &   Enhancements       ?            Software
+   Engineering
+   ?  Requirement Analysis                     ?     System  &  Process  Gap
+   Analysis
+   ?  Customer/Client  Support                  ?     Resource  Optimization
+
+
+
+
+IT Proficiency
+
+      ERP                    : SAP ECC 6.0, SRM 5.0,  ABAP,  PI,  FSCM,  PP,
+SD, MM, FI, FSCM, BOBI
+      Operating Systems           : Windows ALL
+      Application Packages         : MS Office
+
+
+Academic Credentials
+
+    > Master of Computer Applications (MCA), Periyar University, Tamil Nadu
+
+Career Summary
+
+    > Working with IGATE (1.7 Years) as a Technical Lead From April -2014 to
+      Till Date.
+    > Worked with Tech Mahindra (2.4  Years)  (Formerly  known  as  Mahindra
+      Satyam), Hyderabad as a Sr. Software Engineer from  Nov-2011  to  Apr-
+      2014.
+    > Worked with Accenture, Bangalore (1.3 Years) as  a  Software  Engineer
+      From May-2010 To Aug-2011.
+    > Worked with Ybrant DIGITAL (3.7 Years) (Formerly known as  LGS  Global
+      Ltd.,), Hyderabad as a Programmer Analyst from Sep-2006 to Apr-2010.
+
+
+Projects Summary
+Project # 1
+Project Title          : Altria - Enhancement Project
+Project Duration : Apr'15 - Till
+Role             : SAP ABAP Technical Lead ( Individual Contribution)
+Environment      : SAP ECC 6.0, ABAP, PP, MM
+
+Project Description
+Altria Group, Inc. (previously named Philip Morris Companies  Inc.)  is  one
+of  the  world's  largest  tobacco   corporations.   It   is   an   American
+multinational corporation based in Henrico County, Virginia,  United  States
+of America; it is the parent company of Philip Morris USA,  John  Middleton,
+Inc.,  U.S.  Smokeless  Tobacco  Company,  Inc.,   Philip   Morris   Capital
+Corporation, and Chateau Ste. Michelle Wine Estates.
+
+Responsibilities
+
+    . Primary responsibility  is  to  handle  Change  request  Analysis  and
+      development
+    . Responsible for quick resolution for Change requests.
+    . Handling Team, assigned task to be team members and code reviews.
+    . Involved in development of Amendments Request and Acceptance process.
+
+
+Project # 1
+Project Title          : Commercial Metals Company (CMC) - Roll Out Project
+Project Duration : Apr'14 - Mar'15
+Role             : SAP SRM-ABAP Technical Lead
+Environment      : SAP ECC 6.0, SRM 5.0, ABAP, FSCM, PP,MM
+
+Project Description
+Commercial  Metals  Company  is  a  global,   low-cost   metals   recycling,
+manufacturing,   fabricating,   and   trading   enterprise.   Our   vertical
+integration model revolutionized the way the steel industry operates today
+
+Responsibilities
+    . Primary responsibility is to handle Incident  management  and  Problem
+      management processes
+    . Responsible for  quick  resolution  for  incidents  and  assisted  for
+      technical support to functional team
+    . Developed customer exists for the production order user status sets
+    . BADI implementation of BBP_CCM_Transfer_Catalog
+    . Handled shopping cart transfer issues with integrated MM system
+    . Defined and configured the Workflow that includes one  step,  two-step
+      and N step approval configurations with knowledge on workflow BADIs
+    . FSCM - Implemented  IHC_BADI_PN_2_IDOC  for  the  Pay  account  number
+      population
+    . FSCM - Implemented credit management BADI_SD_CM for the  credit  limit
+      checks
+    . FSCM - BP credit management workflow configurations and development
+    . FSCM - In-House cash inbound and outbound configurations
+
+Project # 2
+Project Title          : GlaxoSmithKline (GSK) - Support Project
+Project Duration : Nov'11 - Nov'13
+Role             : SAP SRM-ABAP Technical Lead
+Environment      : SAP ECC 6.0, SRM 5.0, ABAP, SD, MM, FI
+
+Project Description
+GSK is the leading pharmacy company in the world. Worked on three projects
+namely, GSK Incident and Problem Management, GSS Operations Development
+(ABAP).
+
+Responsibilities
+    . Handled Incident management and Problem management processes of ITIL
+    . Responsible for root cause identification of recurring incident
+    . Identified the defects or bugs in the code under  incident  management
+      and suggested code to fix it
+    . Interacted with GSK users in different regions of globe
+    . Worked on SRM Workflow Support issues
+    . Performance analysis implemented for the custom development
+    . Involved Customer Master MDM Replacement and Project development
+
+
+
+
+
+Project # 3
+Project Title          : Hostess Brands - Enhancement & Support
+Project Duration : May'10 - Aug'11
+Role             : SAP ABAP Programmer
+Environment      : SAP ECC 6.0, SRM 5.0, ABAP, MM, FI
+
+Project Description
+Hostess Brands, Inc. (formerly Interstate  Bakeries  Corporation  (IBC))  is
+the largest wholesale baker and distributor of fresh bakery products in  the
+United States.
+
+Responsibilities
+    . Responsible for functional specification and  developed  according  to
+      the technical design documents
+    . Modified  objects  according  to  the  client  requirements  based  on
+      incident requirements
+    . Developed new file inbound and out bound Interfaces
+    . Development of FB60 workflow process and related reports in ALV format
+    . Established vendor void checks outbound interface and  vendor  payment
+      history outbound interface
+    . Developed Jv66 auto upload inbound interface
+    . Developed FB60 based  invoice  date  through  validations  to  nearest
+      Saturday date.
+    . Developed Park aging report based on parked documents  and  non-parked
+      documents
+
+Project # 4
+Project Title          : Noel Pharma - Implementation
+Project Duration : Feb'10 - Apr'10
+Role             : SAP ABAP Programmer
+Environment      : SAP ECC 6.0, ABAP, SD, MM
+
+Responsibilities
+    . Analyzed functional &  technical  specifications  followed  by  object
+      development
+    . Developed BDCs, Enhancements, Reports and Forms  in  ABAP  during  the
+      implementation phase
+    . Involved in technical  document  developments  and  testing  documents
+      creation.
+Project # 5
+Project Title          : NSLSugars - Implementation
+Project Duration : Dec'09 - Jan'10
+Role             : SAP ABAP Programmer
+Environment      : SAP ECC 6.0, SAP SD, MM, FI
+
+Responsibilities
+    . Developed several simple & complex reports using ALV Grid Control
+    . Established BDC's and  worked  extensively  on  Call  Transaction  and
+      Session Method
+    . Experienced in creating and customizing various  Layouts  using  smart
+      forms
+    . To be used variants, parameters, select-options and search to make the
+      reports user-friendly
+    . Ensured that the code performs efficiently, is well documented and  is
+      in line with the standards established by the project leaders and  end
+      users
+Project # 6
+Project Title          : Nava Bharat Venture Ltd, - Implementation
+Project Duration : Oct'07 - Aug'08
+Role             : SAP ABAP Developer
+Environment      : SAP 4.6 C, SAP SD, MM, FI
+
+Responsibilities
+    . Gate pass-MM: This report displays the returnable  and  non-returnable
+      gate pass entries with material number, Material description, original
+      quantity, return quantity, balance quantity, remarks,  vehicle  number
+      and vendor details
+    . Quota Report-SD: This form displays the  GRN  No,  GRN  Date,  Vehicle
+      Details, Vendor, Supplier, Purchase Order Number, Purchase Requisition
+      Number and other departmental details
+    . Levy & Free of Sugar-SD: This report is a daily report which  is  used
+      to check the Levy and Free Stock of Sugar accrued  from  daily  issues
+      and receipts
+    . Convoy Report-SD: Displays the details of perform details with vehicle
+      details
+    . Purchase Order-MM: Used for the clearance of excisable  goods  from  a
+      factory or warehouse on payment of duty for home consumption
+    . RFQ-MM : Generates the details of  request for quotation
+    . TAX Invoice-SD:  Output  displays  the  TAX  components  of  a  normal
+      Invoice
+    . Power Invoice: This output displays the Power purchase amount  details
+      from the govt. monthly
+    . BDC-Material Master  (MM01):  This  report  consists  of  creation  of
+      Material based on  Material  Number,  Material  Type,  Plant,  Storage
+      location and Purchase Organization
+    . BDC -Credit Creation (F-43):  This  report  develops  based  on  date,
+      document type, company code posting date, period, currency  base  line
+      posting key, account number, amount, tax code and pay terms
+    . BDC-Vendor Creation (XK01): This report  develops  on  vendor  number,
+      company code, account group, search term, and vendor address
+
+Project # 7
+Project Title          : Shree Renuka Sugars Ltd - Support Project
+Project Duration : Jan'07 - Aug'07
+Role             : SAP ABAP Developer
+Environment      : SAP ECC 5.0, SAP SD, MM, FI
+Responsibilities
+    . Developed Daily Manufacturing report using the dialog programming  and
+      details in report format.
+    . Developed DPR Transaction and report for the different plants.
+    . Developed Transaction variant for the standard screens.
+    . Developed custom screen addition to the XD01 transaction.
+
+Project # 8
+Project Title          : Vazir Sultan Tobacco Ltd - Support Project
+Project Duration : Nov'06 - Jan'07
+Role             : SAP ABAP Developer
+Environment      : SAP ECC 4.6, SAP SD, MM, FI
+
+Responsibilities
+    . Developed BDC's and worked extensively on Call Transaction and Session
+      Method
+    . Experience in creating and customizing various Layouts
+    . Handled code optimization
+    . Working experience  with  senior  consultants  and  understanding  the
+      coding standards
+
+Personal Dossier
+
+      Marital Status         : Married
+      Passport Number  : M3143071
+      Languages known  : English, Hindi & Telugu
+      Address     : Flat 301, Dhakashyanani Green homes,
+                         Sai Prasanthi Nagar, KPHB Colony,
+                                        Near Tulasi Nagar Community Hall,
+                                        Hyderabad - 500 072

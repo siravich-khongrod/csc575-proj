@@ -1,0 +1,221 @@
+
+
+
+
+                              CURRICULUM VITAE
+
+
+
+
+Syed Abdul Jaleel
+
+Email: jaleel007@gmail.com
+Mobile:  +918686858967
+Hyderabad,A.P India.
+
+
+
+                             ~CAREER OBJECTIVES~
+|                    |                            |                                   |
+
+
+To achieve excellence in working  dynamic  professional  as  Instrumentation
+Engineer offering solutions to business using the best  available  where  my
+analytical ability and analyzing quest are used maximum for  growth  of  the
+organization and to  grow  with  the  organization.  Seeking  a  challenging
+position in well-established company that  offers  professional  growth  and
+ample opportunity to learn and enrich my competencies in my profession.
+
+
+                                  ~SUMMARY~
+
+|                    |                            |                                   |
+
+    . 3+ years of professional experience as an Instrumentation  Engineering
+      .
+    . B.Tech in  Electronics  and  Instrumentation  Engineering  from  Royal
+      Institute Of Technology and Science Affiliated  to JNTU-HYD.
+    . In-depth knowledge of data sheets,  instrument  drawings,  I/O  wiring
+      diagrams, P and IDs, calculation ,Inspection and specifications.
+    . Familiar with QA\QC test check record required during Construction and
+      Pre-commissioning stages
+    . Familiar with Industrial Automation Tools (PLC,SCADA,DCS,HMI & VFD)
+    . Familiar with Building Management System and Electrical Concepts.
+
+
+
+
+                       ~PROFESSIONAL EXPERIENCE~
+|                                                                           |
+
+
+MENTOR E&PM- is an engineering and project management organization which
+takes up construction and commissioning works for instrumentation projects.
+
+Company Name           : Mentors E & PM
+Designation      : Graduate Instrument Engineer
+
+Duration         : 3 years  (From: 05/07/2011 - Present)
+
+ Project : Phase-I Expansion Project
+
+Site: My Home Power Ltd.- is a non-conventional Bio mass plant which is one
+of its kind, which utilizes grain waste as feed and generates steam energy
+to produce 9MW of electricity which is supplied to APTRANSCO.
+
+
+
+
+                         ~EDUCATIONAL QUALIFICATION~
+|                                                                                    |
+
+   1. 2008 August -2012 June, Bachelors of  Technology  in  Electronics  and
+      Instrumentation Engineering  from  Royal  Institute  of  Technology  &
+      Science  affiliated  to  Jawaharlal  Nehru  Technological   University
+      Hyderabad, A.P in First Class division with an aggregate of 61.51%.
+
+
+
+
+
+
+
+   2. 2006 April- 2008 March, Intermediate (+2) from M.S Junior  College  in
+      MPC (Mathematics, Physics & Chemistry )  stream  affiliated  Board  of
+      Intermediate A.P ,India in First Class division with an  aggregate  of
+      71%.
+   3. 2006 March, CBSE 10th from Sharjah Indian School , Sharjah,  U.A.E  in
+      First division with an aggregate of  61% .
+
+
+
+                          ~ JOB RESPONSIBILITIES ~
+|                                                                                    |
+
+Construction and Pre-Commissioning
+  < Instrument specification, sizing, selection, and drawings.
+  < Coordinate work with other disciplines, Support I&C team  with  project
+    deliverables.
+  < Provide Controls and Instrumentation input to Equipment Specifications,
+
+
+  < Ensure that the appropriate  client  comments  are  incorporated;  P&ID
+    development, prepare Cable Schedule (including I/O database)
+  < Prepare and disseminate all  required  documentation  such  as  project
+    specifications, instrument data sheets, level  sketches,  requests  for
+    quotation & requisitions.
+  < Instrument Verification - Installation, calibration, and operation.
+  < Installation  of  new  instruments  and  complete  new  wiring  without
+    disturbing the   existing running plant.
+  < Loop checking of new instruments installed.
+  <  Familiar  with  all  the  design  documents  such  as  Design   Index,
+    Engineering Index, P&Id, Location Plan, Hook Up's, Ild.
+  < Loop checking of various instruments  such  as  temperature,  pressure,
+    flow and level transmitters.
+  < Preparation of Remote and Local Loop Folders.
+  < Acquaint with QA\QC test check record required during Construction  and
+    Pre-commissioning stages.
+  < Aware of all the Health & Safety Environment (HSE) aspects of the plant
+    such as permit procedures and working conditions.
+                     ~ HARDWARE AND TECHNICAL EXPOSURE ~
+|                                                                                    |
+
+
+  o Installation of Pressure ,Level, Flow and Temperature Transmitters.
+  o Installation and trouble shooting of the products relating to PC's.
+  o Installation of Modems, Configuring internet and LAN & familiar with
+    Instrumentation Field Bus such as Field Bus, Profibus, Modbus  and
+    Device Net.
+                        ~ COURSES AND CERTIFICATION ~
+|                                                                                    |
+
+
+    |Name of Course              |Organization of     |Certificati|Duration     |
+|                            |Certification       |on Date    |             |
+|Field Instrumentation       |Mentor E & PM       |21-07-2012 |Months       |
+|1.Electro Pneumatics and    |Government of India |           |             |
+|PLCs                        |                    |13-07-2012 |1 week       |
+|                            |Ministry of Labour  |           |             |
+|2.DCS Programming for       |and Employment and  |           |             |
+|Process (HC 900 Controller  |Training            |15-03-2013 |1 week       |
+|Honeywell)                  |Advanced Training   |           |             |
+|                            |Institute for       |22-03-2013 |1 week       |
+|3. Fundamentals of PLCs &   |Electronics and     |           |             |
+|Ladder Programming          |Process             |           |             |
+|                            |Instrumentation.    |           |             |
+|1.Electrical Concepts       |Energy University by|31-07-2013 |       4 days|
+|2.Energy Audit              |Schneider Electric  |           |             |
+|Instrumentation I :         |                    |31-08-2013 |             |
+|Electrical, Lighting,       |                    |           |10 Days      |
+|Temperature and Humidity    |                    |           |             |
+|Health and Safety in        |ALISON ADVANCE      |08-09-2013 |       8 Days|
+|Construction                |LEARNING            |           |             |
+|                            |Acc :-HSA- IRELAND  |           |             |
+
+|WISE -Wipro Integrated Skill   |Wipro Limited       |08-06-20|4 Weeks           |
+|Enhancement Program            |                    |14      |                  |
+
+
+
+
+                            ~SOFTWARE EXPOSURES~
+|                                                                                    |
+
+
+  o Operating systems         :    Windows XP,  Windows  NT,  Windows  2000,
+    Windows
+                             2003, Windows Vista. Windows 7,Windows 8
+  o Packages                  :    MS-OFFICE 2010, AutoCAD P & ID
+
+
+
+                             ~ACADEMIC PROJECT ~
+|                                                                                    |
+
+Title:  RFID and GSM Based Advanced Vehicle Slot Booking System
+
+                               ~ACHIEVEMENTS~
+|                                                                                    |
+
+    . Participated in relay race and won gold medal in school.
+    . Participated in a Pantomime Act and Recitation Competition  in  school
+      and won second place and third Place respectively.
+    . Represented as a  Team  Leader  for  coordination  &  arrangements  of
+      International Conference at RITS ICAEM-2012.
+    . Participated in an Industrial Report Writing competition and won first
+      place at RITS.
+    . Participated in ADSOPHOS 09 & 11 at MJCET  in  Circuit  Maze  Event  &
+      Paper  Presentation  On  "Non-Conventional  Energy   Resources   Event
+      respectively.
+
+                                ~SOFT SKILLS~
+|                                                                                    |
+
+  o Presentation and Public Speaking
+  o Training & Facilitation
+  o Documentation
+  o Event planning and coordination
+
+
+                              ~PERSONAL SKILLS~
+|                                                                                    |
+
+
+ o Positive Attitude, Determined, High Energies.
+ o Hard Working, and Sincere.
+ o Good decision making and analytical skills.
+ o Business Management Skills.
+
+
+                             ~PERSONAL PROFILE~
+|                                                                                    |
+
+      Father's Name          :     Late. Syed Abdul Salam
+      Date of birth                :          27-October-1990
+      Gender                 :     Male
+      Nationality      :     Indian
+      Passport No      :     Available
+      Languages Known  :     English, Hindi, Arabic and Urdu.
+      Permanent Address      :     H No: 12-2-362/2, Murad Nagar,
+      Mehdipatnam,
+                                    Hyderabad -500028, Andhra Pradesh, INDIA

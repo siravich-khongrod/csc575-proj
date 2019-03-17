@@ -1,0 +1,198 @@
+
+
+
+
+
+      [pic]
+
+
+                                                            Curriculum Vitae
+
+
+                                                         Instrument Engineer
+
+Shoaib Alam
+
+Mob.:   +91-7756820588
+             +91-9437344374
+Email:  shoaib7482@gmail.com
+
+Career Objective
+
+I am looking for a good position in the field of instruments and automation
+in a prestigious company where previous skills and capabilities can be put
+to efficient use. I possess effective organizational skills and the ability
+to supervise a team and develop the final output.
+Personal Details
+
+Profile:                       Male, 26, Married, Indian, Muslim
+
+Current Position:       Instrument Engineer
+Current Location:       Odisha - India
+Pass Port No:            K2152596
+Date of Issue:            27/07/2012
+Date of Expire:          26/07/2022
+Driving License:        OR-1420090025537
+Date of issue:            18/02/2009
+Date of Expiry:          17/02/2029
+Blood Group:                    (B+ve)
+Summary of Skills:
+
+    . About 4years of experience as an instrumentation and control systems
+      engineer in detailed maintenance, commissioning and development co-
+      ordination of instruments and control systems in Power Plant, Steel
+      Plant and Water Treatment  Plant projects.
+    . Configuring and faults diagnosis of  DCS, PLC, SCADA, RTU, Profibus
+      Communication, C-net, Field bus ,Analyzers and Control Loops.
+         o DCS :      ABB,SYMPHONY HARMONY.
+         o PLC :       Siemens simatic S7 200,300,400  and  Rx Logix 5000
+   ,Allen Breadly.
+         o SCADA : WINCC/Siemens,ROCKWELL./WINCC.
+    . Installation, calibration and loop checking of the field instruments (
+      Emerson Rosemount, ABB,  Endress & Hauser,  Honeywell, Yokogawa,
+      .......)
+    . Maintenance and calibration of the control valves ( Pneumatic, Part
+      turn, MOV, NRV,SOV,ADV,Butterfly Valve ..... ) .
+    . Experienced in flowmeters configuring (electromagnetic, orifice plate,
+      ultrasonic, turbine, Radar type. ) of ABB, Rosemount.
+    . Experienced in implementing Interconnection schedule of JB to Field
+      Instruments.
+    . Experienced in implementing Interconnection schedule of JB to PLC.
+
+
+    . Experienced in implementing Interconnection schedule of MCC to PLC.
+    . Designing, Implementing and Commissioning of new control loops as per
+      site requirements.
+    . Review of control philosophy, P&I diagrams,ILD ,HOOK UP, cause &
+      effect diagrams, instruments list, flow chart
+    . Familiar with engineering standards ISA, IEEE, ASTM, NAMUR, ASMI ,
+      ANSI , NEMA , IEC
+    . Preparing master data sheet for PM schedule; ensuring safe and
+      efficient performing of CM
+    . Technical Support for the instrumentation team.
+    . Experienced in the field instruments and control systems procurement
+      activities            page1of 3
+    . Spares balance investigation and inventory control for all
+      instruments' spare parts
+    . Excellent communication interpersonal skills.
+    . Experienced in testing of Profibus, Field bus, LAN cable & C-net cable
+
+Educational Qualifications:
+
+2011........ Bachel of  Electronics & Instrumentation Engineering, Biju
+Patnaik university                     Odisha(India).
+ 2006.......Higher study(HSE)...............Odisha (India)
+Organizational Experience
+
+Organization:             M/S S.A.FABRICATORS & CIVIL ENGINEERS
+Duration:                    JAN'2013 till now
+Designation:              Instruments and Control Systems Engineer
+Project Description:  3×660MW Thermal Power
+Plant,MAHAGENCO,Koradi,Nagpur/LANCO INFRATECH LTD.
+Responsibilities:
+    . Leading a team of 6 instrument technicians
+    . Reporting periodically to Maintenance Manager; preparing KPI, PM and
+      CM reports.
+    . Troubleshooting the totally integrated automation TIA from Siemens  (
+      Rockwell Rx Logix5000 + PLC simatic S7 400 + SCADA  WINCC ) software
+      and hardware .
+    . Troubleshooting of redundant Profibus communication between 30 RTUs
+      and the contrl room ; comprising of 2 pair hot/standby controllers and
+      pair of dual redundant scada servers.
+    . Planning required upgradation for instruments to achieve production
+      quality and cost minimizing.
+    . Maintenance and calibration of pneumatic control valves , part turn
+      actuated valves and Solenoid operated valve.
+    . Maintenance and calibration of different analyzers : Conductivity,
+      Chlorine, PH,,  Turbidity, Silica Analyzer  ( Endress and Hauser ).
+    . Maintenance and calibration of flowmeters ( electromagnetic, orifice
+      plate, variable area,  turbine, ultrasonic..... ) of ABB,  Rosemount.
+    . Maintenance and calibration of transmitters PT, LT, TT, DPT,FT,DPS,PS
+      (Emerson Rosemount, Endress & Hauser, ABB ,.....) and Monitran
+      vibration transducers.
+    . Calibrating and adjusting the dosing pumps (Prominent)
+    . Cathodic protection testing for five 10,000 m3 reservation tanks
+    . Ensure Spares balance and inventory control for all instruments' spare
+      parts
+
+
+                     * * * * * * * * * * * * * * * * * *
+
+
+
+
+   Organization:             S.A. Fabricators & Civil Engineers, Rourkela
+   (Odisha) - India
+      Duration:                    JAN 2012 to JAN 2013
+     Designation:              Instrument Engineer
+     Project Description: BLAST FURNACE Capacity 450 cubic meter automated
+by PLC- SCADA     system.
+SESA GOA LTD.AMONA ,GOA.
+          Responsibilities:
+    . Involved in the mixing plants erection works, commissioning and
+      maintenance.
+    . Troubleshooting of PLC system ( Siemens simatic S7 300,S7400 ) and
+      faults diagnosis .
+    . Programming of plant microcontroller
+    . Calibrating of weighting systems including load cell 15 ton capacity
+    . Planning and implementing additional control loops as per site
+      requirements
+    . Maintenance & calibration of Dryer temperature control system
+      (SIEMENS)
+    . Strong background in motor defects, softstarters, drives, star/delta
+      starters, VFD, MCC
+    . Printed circuit boards PCB Repairing, Designing, and Modifying.
+                                 Page2 of 3
+
+
+
+Organization:          S.A.FABRICATORS & CIVIL ENGINEERS
+Duration:                  JAN 2011 to JAN 2012
+Designation:              Instrument Engineer
+Project Description:470×3 MW Steam Turbine Power Plant,
+BHUSAWAL,MAHARASHTRA.
+Responsibilities:
+    . Leading a team of five instrument technicians
+    . Programming  PLC (Allen Bradely ) by Ladder Diagram, and hardware
+      troubleshooting
+    . Basic troubleshooting of SCADA  and DCS Symphony Harmony (ABB).
+    . Maintenance & calibration of transmitters PT, LT , TT , DPT ,PG,TG(
+      Rosemount, Honeywell......)
+    . Maintenance & calibration of turbine governer control system.
+    . Maintenance and calibration of pneumatic control valves (Blackborough,
+      Copes-Vulcan, Valtek, Masoneilan) and motorized valves ( Auma matic &
+      Auto tork )
+    . Maintenance and calibration of orifice plate flowmeters ( Rosemount )
+      & gas turbine flowmeters
+    . Configuring of stack sampler set , and O2 analyzer
+    . Trainer at the company training center
+
+Training
+.SCADA ,PLC(Allen Bradely) Training from IDTR Jamshedpur (MSME Govt.
+Undertaking).
+IT  Skills
+    . Operating systems            :  Windows XP, 7, 2008 Server
+    . Internet                              :  Very good
+    . Programming languages   :  Visual Basic, C++
+    . PLC Programming             :  Ladder Diagram(Allen Bradely,Siemens)
+    . Control Programs              :  PCS7 v6.0 Siemens & Symphony Harmony,
+       WINCC.       SCADA,RxLogix5000
+    . PC Networking                  :  Very good
+    . PC HW maintenance         : Experienced
+    . Languages
+
+English        Fluent; read, write and speak
+Urdu            Fluent, read, write and speak
+Hindi            Fluent, read, write and speak.
+
+
+
+
+                           Declaration
+ I hereby declare  that all information stated above are true to the best of
+                                my knowledge.
+
+                         (Last Updated on AUG' 2014)
+
+
+                                 Page 3 of 3

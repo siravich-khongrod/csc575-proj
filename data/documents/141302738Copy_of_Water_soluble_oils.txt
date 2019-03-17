@@ -1,0 +1,234 @@
+
+Water soluble oils
+
+R0095 [pic]RESPLANTA OLEA   olive oil glycereth-8 esters
+R0129 [pic]RESPLANTA PGF OLEA   olive oil polyglyceryl-4 esters
+R0105 [pic]RESPLANTA SUN   sunflower seed oil glycereth-8 esters
+R0111 [pic]RESPLANTA COCONUT   coconut oil glycereth-8 esters
+R0067 [pic]RESPLANTA TRITICUM   wheat germ oil glycereth-8 esters
+
+
+R0095
+|[pic]        |
+|[pic]        |
+
+
+NAME: RESPLANTA OLEA INCI NAME: olive oil glycereth-8 esters CATEGORY:
+water soluble oils DESCRIPTION: Water dispersible olive oil (Olea europaea)
+with the classic emollient, softening, elasticizing and nourishing
+properties of olive oil. Suitable for the formulation of hair care and
+toiletry products, oils. LITERATURE:
+|[pi|BROCHURE RESPLANTA                                             |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: Antiacne teen cream                                   |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: revitalizing shower gel                               |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: shower gel for men                                    |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: TONIC with RESPLANTA OLEA                             |
+|c] |                                                               |
+|                                                                   |
+|[pi|Fototoxicity RESPLANTA OLEA                                    |
+|c] |                                                               |
+|                                                                   |
+|[pi|From pure italian olive oil a multifuntional water soluble     |
+|c] |derivative                                                     |
+|                                                                   |
+|[pi|OLIVE OIL and its derivatives for quality cosmetic products    |
+|c] |                                                               |
+|                                                                   |
+|[pi|RESPLANTA OLEA GLC characterization                            |
+|c] |                                                               |
+|                                                                   |
+|[pi|Resplanta OLEA: OCULAR IRRITECTION TEST                        |
+|c] |                                                               |
+|                                                                   |
+|[pi|RESPLANTA®: cosmetic water soluble oils                        |
+|c] |                                                               |
+|                                                                   |
+
+|CODE:       |R0129                                  | |[pic]        |
+|            |                                       | |             |
+|            |                                       | |[pic]        |
+|            |                                       | |             |
+|            |                                       | |             |
+|NAME:       |RESPLANTA PGF OLEA                     | |             |
+|            |                                       | |             |
+|INCI NAME:  |olive oil polyglyceryl-4 esters        | |             |
+|            |                                       | |             |
+|CATEGORY:   |water soluble oils                     | |             |
+|            |                                       | |             |
+|DESCRIPTION:|PEG free water dispersible Olive oil   | |             |
+|            |produced with natural polyglycerol.    | |             |
+|            |ECOCERT agreed                         | |             |
+|            |                                       | |             |
+|LITERATURE: |[pic]                                  | |             |
+|            |BROCHURE RESPLANTA PGF                 | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |[pic]                                  | |             |
+|            |FORMULA: age defense sun spray emulsion| |             |
+|            |SPF 20                                 | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |[pic]                                  | |             |
+|            |FORMULA: early morning baby face       | |             |
+|            |cleanser wipes                         | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |[pic]                                  | |             |
+|            |FORMULA: Eco eye contour night cream   | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |[pic]                                  | |             |
+|            |FORMULA: extra mild liquid soap        | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |[pic]                                  | |             |
+|            |Resplanta PGF OLEA: ECOCERT            | |             |
+|            |                                       | |             |
+
+
+|CODE:       |R0105                                  | |[pic]        |
+|            |                                       | |             |
+|            |                                       | |[pic]        |
+|            |                                       | |             |
+|            |                                       | |             |
+|NAME:       |RESPLANTA SUN                          | |             |
+|            |                                       | |             |
+|INCI NAME:  |sunflower seed oil glycereth-8 esters  | |             |
+|            |                                       | |             |
+|CATEGORY:   |water soluble oils                     | |             |
+|            |                                       | |             |
+|DESCRIPTION:|Water dispersible sun flower seed oil  | |             |
+|            |(Helianthus annuus) with the classic   | |             |
+|            |emollient, softening and elasticizing  | |             |
+|            |properties of sun flower seed oil.     | |             |
+|            |Suitable for the formulation of hair   | |             |
+|            |care and toiletry products, oils.      | |             |
+|            |                                       | |             |
+|LITERATURE: |[pic]                                  | |             |
+|            |BROCHURE RESPLANTA                     | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |[pic]                                  | |             |
+|            |FORMULA: extra mild shampoo            | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |[pic]                                  | |             |
+|            |Resplanta SUN: DERMAL IRRITECTION TEST | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |[pic]                                  | |             |
+|            |Resplanta SUN: OCULAR IRRITECTION TEST | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |                                       | |             |
+|            |[pic]                                  | |             |
+|            |RESPLANTA®: cosmetic water soluble oils| |             |
+|            |                                       | |             |
+|            |                                       | |             |
+
+CODE: R0067
+|[pic]        |
+|[pic]        |
+
+
+NAME: RESPLANTA TRITICUM INCI NAME: wheat germ oil glycereth-8 esters
+CATEGORY: water soluble oils DESCRIPTION: Water dispersible wheat germ oil
+(Triticum vulgare) with the classic emolient, softening, skin soothing,
+nourishing and eudermic properties of wheat germ oil. Suitable for the
+formulation of hair care and toiletry products, oils, creams, milks and
+lotions LITERATURE:
+|[pi|BROCHURE RESPLANTA                                             |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: Reconstructing shampoo                                |
+|c] |                                                               |
+|                                                                   |
+|[pi|Fototoxicity RESPLANTA TRITICUM                                |
+|c] |                                                               |
+|                                                                   |
+|[pi|Resplanta TRITICUM: DERMAL IRRITECTION TEST                    |
+|c] |                                                               |
+|                                                                   |
+|[pi|Resplanta TRITICUM: OCULAR IRRITECTION TEST                    |
+|c] |                                                               |
+|                                                                   |
+|[pi|RESPLANTA®: cosmetic water soluble oils                        |
+|c] |                                                               |
+Surfactants
+
+R0086 [pic]RESASSOL AGO   sodium olivamphoacetate
+
+CODE: R0086
+|[pic]        |
+|[pic]        |
+
+
+NAME: RESASSOL AGO INCI NAME: sodium olivamphoacetate CATEGORY: surfactants
+DESCRIPTION: Amphoteric PEG-free surfactant derived from olive oil.
+Delicate detergent action. Produces a creamy and stable foam. Suitable for
+shampoos, bath foam and delicate cleansing products. ECOCERT agreed
+LITERATURE:
+|[pi|FORMULA: Antidandruff shampoo                                  |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: extra mild liquid soap                                |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: Extra mild shampoo                                    |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: Fortifying shampoo for men                            |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: PREGNANCY SHOWER GEL                                  |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: Reconstructing shampoo                                |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: revitalizing shower gel                               |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: Shampoo for greasy hair                               |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: Shampoo for women                                     |
+|c] |                                                               |
+|                                                                   |
+|[pi|FORMULA: shower gel for men                                    |
+|c] |                                                               |
+|                                                                   |
+|[pi|Fototoxicity RESASSOL AGO                                      |
+|c] |                                                               |
+|                                                                   |
+|[pi|Olive oil amphoglycinate manufactured by RES PHARMA®           |
+|c] |                                                               |
+|                                                                   |
+|[pi|OLIVE OIL and its derivatives for quality cosmetic products    |
+|c] |                                                               |
+|                                                                   |
+|[pi|Resassol AGO: DERMAL IRRITECTION TEST                          |
+|c] |                                                               |
+|                                                                   |
+|[pi|Resassol AGO: ECOCERT                                          |
+|c] |                                                               |
+|                                                                   |
+|[pi|Resassol AGO: OCULAR IRRITECTION TEST                          |
+|c] |                                                               |
+
