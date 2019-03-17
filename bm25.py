@@ -61,7 +61,7 @@ def search(query):
         if token in inverted_idx.keys():
             for entry in inverted_idx[token]:
                 bm25_val = BM25(len_idx[entry[0]],get_avg_doc_len(len_idx),len(inverted_idx[token]),len(len_idx),entry[1],1,0)
-                scores[entry[0]] = round(10* sigmoid(bm25_val)-5,4)
+                scores[entry[0]] = round(bm25_val,4)
     result = sorted(scores.items(),key=operator.itemgetter(1),reverse=True)
     #result = sorted(norm_scores.items(), key = operator.itemgetter(1), reverse = True)
     return result
