@@ -57,7 +57,7 @@ def search(query):
     
     query_tokens = query.split()
     for token in query_tokens:
-    #for token in query:
+        token = token.lower()
         if token in inverted_idx.keys():
             for entry in inverted_idx[token]:
                 bm25_val = BM25(len_idx[entry[0]],get_avg_doc_len(len_idx),len(inverted_idx[token]),len(len_idx),entry[1],1,0)
